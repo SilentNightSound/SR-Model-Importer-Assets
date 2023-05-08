@@ -1,0 +1,169 @@
+[
+    {
+        "component_name": "Hair",
+        "root_vs": "e8425f64cfb887cd",
+        "draw_vb": "adce6688",
+        "position_vb": "6aee5919",
+        "blend_vb": "b9ac47a5",
+        "texcoord_vb": "87e51b21",
+        "ib": "801f0607",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "c513717a"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "1fdfbbdc"
+                ],
+                [
+                    "ShadowRamp",
+                    ".jpg",
+                    "58d2635b"
+                ]
+            ]
+        ],
+        "first_vs": "25454be6882760a4"
+    },
+    {
+        "component_name": "Head",
+        "root_vs": "e8425f64cfb887cd",
+        "draw_vb": "b44f5ab8",
+        "position_vb": "392efba2",
+        "blend_vb": "2b8c20aa",
+        "texcoord_vb": "fd8bddb0",
+        "ib": "a448e911",
+        "object_indexes": [
+            0,
+            10944
+        ],
+        "object_classifications": [
+            "A",
+            "B"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "4667f3bb"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "bb5905b2"
+                ],
+                [
+                    "Shadow",
+                    ".dds",
+                    "dd2d6fde"
+                ],
+                [
+                    "t3",
+                    ".dds",
+                    "efc71230"
+                ]
+            ],
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "dd2d6fde"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "bb5905b2"
+                ],
+                [
+                    "Shadow",
+                    ".dds",
+                    "efc71230"
+                ]
+            ]
+        ],
+        "first_vs": "eb6ecb998f4449b5"
+    },
+    {
+        "component_name": "Body",
+        "root_vs": "e8425f64cfb887cd",
+        "draw_vb": "8cc7a1d1",
+        "position_vb": "3f301db1",
+        "blend_vb": "9db0235e",
+        "texcoord_vb": "2b98f3d1",
+        "ib": "cb3a3965",
+        "object_indexes": [
+            0,
+            23412,
+            42429
+        ],
+        "object_classifications": [
+            "A",
+            "B",
+            "C"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "52e4750b"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "efc1554c"
+                ],
+                [
+                    "ShadowRamp",
+                    ".jpg",
+                    "078177f1"
+                ]
+            ],
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "d1e827e0"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "b83d39c9"
+                ],
+                [
+                    "ShadowRamp",
+                    ".jpg",
+                    "078177f1"
+                ]
+            ],
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "d1e827e0"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "b83d39c9"
+                ],
+                [
+                    "ShadowRamp",
+                    ".jpg",
+                    "078177f1"
+                ]
+            ]
+        ],
+        "first_vs": "01b83059ad73cf7e"
+    }
+]
