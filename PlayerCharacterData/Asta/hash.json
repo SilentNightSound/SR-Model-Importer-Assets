@@ -11,7 +11,7 @@
             0
         ],
         "object_classifications": [
-            "Head"
+            "A"
         ],
         "texture_hashes": [
             [
@@ -35,7 +35,7 @@
         "first_vs": "25454be6882760a4"
     },
     {
-        "component_name": "Face",
+        "component_name": "Head",
         "root_vs": "e8425f64cfb887cd",
         "draw_vb": "618d1c95",
         "position_vb": "0cfe57a0",
@@ -47,8 +47,8 @@
             153
         ],
         "object_classifications": [
-            "Head",
-            "Body"
+            "A",
+            "B"
         ],
         "texture_hashes": [
             [
@@ -85,7 +85,7 @@
                     "c6ca85f2"
                 ],
                 [
-                    "Shadow",
+                    "t3",
                     ".dds",
                     "a5b5a9da"
                 ]
@@ -107,9 +107,9 @@
             49917
         ],
         "object_classifications": [
-            "Head",
-            "Body",
-            "Dress"
+            "A",
+            "B",
+            "C"
         ],
         "texture_hashes": [
             [
@@ -153,9 +153,14 @@
                     "b7ff7a6e"
                 ],
                 [
-                    "LightMap",
+                    "Shadow",
                     ".dds",
-                    "eb1eddb5"
+                    "3cc949c8"
+                ],
+                [
+                    "t3",
+                    ".dds",
+                    "71c42c40"
                 ]
             ]
         ],

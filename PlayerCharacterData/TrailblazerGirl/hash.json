@@ -11,7 +11,7 @@
             0
         ],
         "object_classifications": [
-            "Head"
+            "A"
         ],
         "texture_hashes": [
             [
@@ -47,8 +47,8 @@
             12636
         ],
         "object_classifications": [
-            "Head",
-            "Body"
+            "A",
+            "B"
         ],
         "texture_hashes": [
             [
@@ -68,7 +68,7 @@
                     "9de5bc72"
                 ],
                 [
-                    "Shadow",
+                    "t3",
                     ".dds",
                     "a5b5a9da"
                 ]
@@ -98,14 +98,14 @@
         "root_vs": "e8425f64cfb887cd",
         "draw_vb": "dabe4434",
         "position_vb": "6949f854",
-        "blend_vb": "e11a5eab",
+        "blend_vb": "7f4e899b",
         "texcoord_vb": "01df48a6",
         "ib": "85ad43b3",
         "object_indexes": [
             0
         ],
         "object_classifications": [
-            "Head"
+            "A"
         ],
         "texture_hashes": [
             [
