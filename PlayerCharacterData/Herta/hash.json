@@ -11,7 +11,7 @@
             0
         ],
         "object_classifications": [
-            "Head"
+            "A"
         ],
         "texture_hashes": [
             [
@@ -47,8 +47,8 @@
             12336
         ],
         "object_classifications": [
-            "Head",
-            "Body"
+            "A",
+            "B"
         ],
         "texture_hashes": [
             [
@@ -68,7 +68,7 @@
                     "5804fec5"
                 ],
                 [
-                    "Shadow",
+                    "t3",
                     ".dds",
                     "33ba7848"
                 ]
@@ -106,8 +106,8 @@
             52458
         ],
         "object_classifications": [
-            "Head",
-            "Body"
+            "A",
+            "B"
         ],
         "texture_hashes": [
             [
