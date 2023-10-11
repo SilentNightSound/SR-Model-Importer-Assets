@@ -3,10 +3,10 @@
         "component_name": "Hair",
         "root_vs": "e8425f64cfb887cd",
         "draw_vb": "ad6bae51",
-        "position_vb": "d355aba1",
-        "blend_vb": "52791df4",
-        "texcoord_vb": "886a83a0",
-        "ib": "767e7863",
+        "position_vb": "2f7b8290",
+        "blend_vb": "5484d0a4",
+        "texcoord_vb": "113fec47",
+        "ib": "3b85292b",
         "object_indexes": [
             0
         ],
@@ -18,7 +18,7 @@
                 [
                     "Diffuse",
                     ".dds",
-                    "2a7a5350"
+                    "17542aca"
                 ],
                 [
                     "LightMap",
@@ -32,7 +32,7 @@
                 ]
             ]
         ],
-        "first_vs": "25454be6882760a4"
+        "first_vs": "442888ec07379143"
     },
     {
         "component_name": "Head",
@@ -55,7 +55,7 @@
                 [
                     "Diffuse",
                     ".dds",
-                    "0ac15ebf"
+                    "8af54c5d"
                 ],
                 [
                     "LightMap",
@@ -91,7 +91,7 @@
                 ]
             ]
         ],
-        "first_vs": "73fc0c63f5745573"
+        "first_vs": "d45c2196dc7e6526"
     },
     {
         "component_name": "Body",
@@ -119,7 +119,7 @@
                 [
                     "LightMap",
                     ".dds",
-                    "f99fd8c2"
+                    "d8dd2b05"
                 ],
                 [
                     "ShadowRamp",
@@ -136,7 +136,7 @@
                 [
                     "LightMap",
                     ".dds",
-                    "36564526"
+                    "ff928485"
                 ],
                 [
                     "ShadowRamp",
@@ -145,6 +145,6 @@
                 ]
             ]
         ],
-        "first_vs": "01b83059ad73cf7e"
+        "first_vs": "8fdb5b35d9d54399"
     }
 ]

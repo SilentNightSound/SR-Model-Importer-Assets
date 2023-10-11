@@ -32,7 +32,7 @@
                 ]
             ]
         ],
-        "first_vs": "4e71fda0a807f1f3"
+        "first_vs": "442888ec07379143"
     },
     {
         "component_name": "Head",
@@ -65,19 +65,19 @@
                 [
                     "Shadow",
                     ".dds",
-                    "3e9722f1"
+                    "fd91fe9f"
                 ],
                 [
                     "t3",
                     ".dds",
-                    "1f99f5fb"
+                    "6567c9c0"
                 ]
             ],
             [
                 [
                     "Diffuse",
                     ".dds",
-                    "3e9722f1"
+                    "fd91fe9f"
                 ],
                 [
                     "LightMap",
@@ -87,11 +87,11 @@
                 [
                     "Shadow",
                     ".dds",
-                    "1f99f5fb"
+                    "6567c9c0"
                 ]
             ]
         ],
-        "first_vs": "44021dc9ce12c669"
+        "first_vs": "d45c2196dc7e6526"
     },
     {
         "component_name": "Body",
@@ -114,12 +114,12 @@
                 [
                     "Diffuse",
                     ".dds",
-                    "12aa76ea"
+                    "5cd5d088"
                 ],
                 [
                     "LightMap",
                     ".dds",
-                    "e0c63ed8"
+                    "31724118"
                 ],
                 [
                     "ShadowRamp",
@@ -131,12 +131,12 @@
                 [
                     "Diffuse",
                     ".dds",
-                    "ffce75a5"
+                    "148d7790"
                 ],
                 [
                     "LightMap",
                     ".dds",
-                    "78d83281"
+                    "58749091"
                 ],
                 [
                     "ShadowRamp",
@@ -145,6 +145,6 @@
                 ]
             ]
         ],
-        "first_vs": "d74c30278787a254"
+        "first_vs": "8fdb5b35d9d54399"
     }
 ]

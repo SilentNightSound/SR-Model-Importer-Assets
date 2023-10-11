@@ -18,7 +18,7 @@
                 [
                     "Diffuse",
                     ".dds",
-                    "c513717a"
+                    "21c2354a"
                 ],
                 [
                     "LightMap",
@@ -32,19 +32,19 @@
                 ]
             ]
         ],
-        "first_vs": "25454be6882760a4"
+        "first_vs": "442888ec07379143"
     },
     {
         "component_name": "Head",
         "root_vs": "e8425f64cfb887cd",
-        "draw_vb": "b44f5ab8",
-        "position_vb": "392efba2",
-        "blend_vb": "2b8c20aa",
-        "texcoord_vb": "fd8bddb0",
-        "ib": "a448e911",
+        "draw_vb": "0a432b82",
+        "position_vb": "25060ff7",
+        "blend_vb": "642d3ecb",
+        "texcoord_vb": "201f3069",
+        "ib": "2e4a2fcf",
         "object_indexes": [
             0,
-            10944
+            11004
         ],
         "object_classifications": [
             "A",
@@ -55,7 +55,7 @@
                 [
                     "Diffuse",
                     ".dds",
-                    "4667f3bb"
+                    "9a85af8a"
                 ],
                 [
                     "LightMap",
@@ -91,7 +91,7 @@
                 ]
             ]
         ],
-        "first_vs": "eb6ecb998f4449b5"
+        "first_vs": "d45c2196dc7e6526"
     },
     {
         "component_name": "Body",
@@ -121,7 +121,7 @@
                 [
                     "LightMap",
                     ".dds",
-                    "efc1554c"
+                    "49f0a509"
                 ],
                 [
                     "ShadowRamp",
@@ -138,7 +138,7 @@
                 [
                     "LightMap",
                     ".dds",
-                    "b83d39c9"
+                    "ffaf499a"
                 ],
                 [
                     "ShadowRamp",
@@ -155,7 +155,7 @@
                 [
                     "LightMap",
                     ".dds",
-                    "b83d39c9"
+                    "ffaf499a"
                 ],
                 [
                     "ShadowRamp",
@@ -164,6 +164,6 @@
                 ]
             ]
         ],
-        "first_vs": "01b83059ad73cf7e"
+        "first_vs": "e7968e0b48aa4896"
     }
 ]

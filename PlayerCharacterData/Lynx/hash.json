@@ -32,7 +32,7 @@
                 ]
             ]
         ],
-        "first_vs": "69d39e260c6bf9bf"
+        "first_vs": "442888ec07379143"
     },
     {
         "component_name": "Head",
@@ -91,7 +91,7 @@
                 ]
             ]
         ],
-        "first_vs": "c551862d24c3b69b"
+        "first_vs": "d45c2196dc7e6526"
     },
     {
         "component_name": "Body",
@@ -117,7 +117,7 @@
                 [
                     "LightMap",
                     ".dds",
-                    "df6cfbca"
+                    "6cb92f15"
                 ],
                 [
                     "ShadowRamp",
@@ -126,6 +126,6 @@
                 ]
             ]
         ],
-        "first_vs": "935ff6660c971df9"
+        "first_vs": "8fdb5b35d9d54399"
     }
 ]
