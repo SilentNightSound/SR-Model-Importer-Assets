@@ -23,7 +23,7 @@
                 [
                     "LightMap",
                     ".dds",
-                    "af61146d"
+                    "5ce4bacf"
                 ],
                 [
                     "ShadowRamp",
@@ -32,7 +32,7 @@
                 ]
             ]
         ],
-        "first_vs": "935ff6660c971df9"
+        "first_vs": "8fdb5b35d9d54399"
     },
     {
         "component_name": "Eyes",
@@ -65,7 +65,7 @@
                 [
                     "Shadow",
                     ".dds",
-                    "736f2116"
+                    "0b6a84a4"
                 ]
             ],
             [
@@ -82,11 +82,11 @@
                 [
                     "Shadow",
                     ".dds",
-                    "6567c9c0"
+                    "1f99f5fb"
                 ]
             ]
         ],
-        "first_vs": "c551862d24c3b69b"
+        "first_vs": "d45c2196dc7e6526"
     },
     {
         "component_name": "Body",
@@ -112,7 +112,7 @@
                 [
                     "LightMap",
                     ".dds",
-                    "af61146d"
+                    "5ce4bacf"
                 ],
                 [
                     "ShadowRamp",
@@ -121,6 +121,6 @@
                 ]
             ]
         ],
-        "first_vs": "935ff6660c971df9"
+        "first_vs": "8fdb5b35d9d54399"
     }
 ]
