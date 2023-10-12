@@ -18,7 +18,7 @@
                 [
                     "Diffuse",
                     ".dds",
-                    "d9e6058f"
+                    "02a81179"
                 ],
                 [
                     "LightMap",
@@ -32,7 +32,7 @@
                 ]
             ]
         ],
-        "first_vs": "25454be6882760a4"
+        "first_vs": "442888ec07379143"
     },
     {
         "component_name": "Head",
@@ -55,7 +55,7 @@
                 [
                     "Diffuse",
                     ".dds",
-                    "ce73e4ef"
+                    "bdfd3d71"
                 ],
                 [
                     "LightMap",
@@ -65,7 +65,7 @@
                 [
                     "Shadow",
                     ".dds",
-                    "c6ca85f2"
+                    "4643efe8"
                 ],
                 [
                     "t3",
@@ -77,7 +77,7 @@
                 [
                     "Diffuse",
                     ".dds",
-                    "c6ca85f2"
+                    "4643efe8"
                 ],
                 [
                     "LightMap",
@@ -91,7 +91,7 @@
                 ]
             ]
         ],
-        "first_vs": "73fc0c63f5745573"
+        "first_vs": "d45c2196dc7e6526"
     },
     {
         "component_name": "Body",
@@ -121,7 +121,7 @@
                 [
                     "LightMap",
                     ".dds",
-                    "1870a9cb"
+                    "547497fb"
                 ],
                 [
                     "ShadowRamp",
@@ -138,7 +138,7 @@
                 [
                     "LightMap",
                     ".dds",
-                    "6e205d4e"
+                    "73fad5f5"
                 ],
                 [
                     "ShadowRamp",
@@ -150,20 +150,25 @@
                 [
                     "Diffuse",
                     ".dds",
-                    "b7ff7a6e"
-                ],
-                [
-                    "Shadow",
-                    ".dds",
                     "77ddf35c"
                 ],
                 [
-                    "t3",
+                    "LightMap",
                     ".dds",
-                    "1870a9cb"
+                    "547497fb"
+                ],
+                [
+                    "ShadowRamp",
+                    ".jpg",
+                    "b7ff7a6e"
+                ],
+                [
+                    "t3",
+                    ".jpg",
+                    "078177f1"
                 ]
             ]
         ],
-        "first_vs": "01b83059ad73cf7e"
+        "first_vs": "8fdb5b35d9d54399"
     }
 ]
