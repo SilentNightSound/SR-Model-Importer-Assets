@@ -1,0 +1,119 @@
+[
+    {
+        "component_name": "Hair",
+        "root_vs": "e8425f64cfb887cd",
+        "draw_vb": "040c8f95",
+        "position_vb": "3214c162",
+        "blend_vb": "6f2967cb",
+        "texcoord_vb": "5eede219",
+        "ib": "179d17fe",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "d066d8b7"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "4925c9dd"
+                ],
+                [
+                    "ShadowRamp",
+                    ".jpg",
+                    "58d2635b"
+                ]
+            ]
+        ],
+        "first_vs": "4548f0ce0f18b782"
+    },
+    {
+        "component_name": "Head",
+        "root_vs": "e8425f64cfb887cd",
+        "draw_vb": "0c349519",
+        "position_vb": "13e52094",
+        "blend_vb": "e0caccfa",
+        "texcoord_vb": "831d6978",
+        "ib": "2dc8bb9d",
+        "object_indexes": [
+            0,
+            13251
+        ],
+        "object_classifications": [
+            "A",
+            "B"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "705196e4"
+                ]
+            ],
+            []
+        ],
+        "first_vs": "d9b883abe316242c"
+    },
+    {
+        "component_name": "Body",
+        "root_vs": "e8425f64cfb887cd",
+        "draw_vb": "9dc7d1aa",
+        "position_vb": "2e306dca",
+        "blend_vb": "3f920a7c",
+        "texcoord_vb": "18af7e1c",
+        "ib": "7d57f432",
+        "object_indexes": [
+            0,
+            58749
+        ],
+        "object_classifications": [
+            "A",
+            "B"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "f94c8a7e"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "98b6f3be"
+                ],
+                [
+                    "ShadowRamp",
+                    ".jpg",
+                    "078177f1"
+                ]
+            ],
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "f94c8a7e"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "98b6f3be"
+                ],
+                [
+                    "ShadowRamp",
+                    ".jpg",
+                    "078177f1"
+                ]
+            ]
+        ],
+        "first_vs": "2caeb828e4f7aa8a"
+    }
+]

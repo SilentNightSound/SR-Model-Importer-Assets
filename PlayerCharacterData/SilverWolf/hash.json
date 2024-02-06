@@ -32,7 +32,7 @@
                 ]
             ]
         ],
-        "first_vs": "442888ec07379143"
+        "first_vs": "4548f0ce0f18b782"
     },
     {
         "component_name": "Head",
@@ -56,58 +56,29 @@
                     "Diffuse",
                     ".dds",
                     "d99747d7"
-                ],
-                [
-                    "LightMap",
-                    ".dds",
-                    "bb5905b2"
-                ],
-                [
-                    "Shadow",
-                    ".dds",
-                    "2da564b0"
-                ],
-                [
-                    "t3",
-                    ".dds",
-                    "33ba7848"
                 ]
             ],
-            [
-                [
-                    "Diffuse",
-                    ".dds",
-                    "2da564b0"
-                ],
-                [
-                    "LightMap",
-                    ".dds",
-                    "bb5905b2"
-                ],
-                [
-                    "Shadow",
-                    ".dds",
-                    "33ba7848"
-                ]
-            ]
+            []
         ],
-        "first_vs": "d45c2196dc7e6526"
+        "first_vs": "d9b883abe316242c"
     },
     {
         "component_name": "Body",
         "root_vs": "e8425f64cfb887cd",
-        "draw_vb": "429574bd",
-        "position_vb": "f162c8dd",
-        "blend_vb": "a9958daa",
-        "texcoord_vb": "2e053525",
-        "ib": "729de5d2",
+        "draw_vb": "6bb20ea8",
+        "position_vb": "d845b2c8",
+        "blend_vb": "21ff348c",
+        "texcoord_vb": "ab13f8b8",
+        "ib": "e8f10ab3",
         "object_indexes": [
             0,
-            64392
+            63549,
+            63663
         ],
         "object_classifications": [
             "A",
-            "B"
+            "B",
+            "C"
         ],
         "texture_hashes": [
             [
@@ -127,6 +98,7 @@
                     "078177f1"
                 ]
             ],
+            [],
             [
                 [
                     "Diffuse",
@@ -145,6 +117,6 @@
                 ]
             ]
         ],
-        "first_vs": "8fdb5b35d9d54399"
+        "first_vs": "2caeb828e4f7aa8a"
     }
 ]
