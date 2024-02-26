@@ -1,0 +1,177 @@
+[
+    {
+        "component_name": "Hair",
+        "root_vs": "e8425f64cfb887cd",
+        "draw_vb": "c6421b31",
+        "position_vb": "10952bd7",
+        "blend_vb": "a15c444f",
+        "texcoord_vb": "197565f8",
+        "ib": "bb38993a",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "8bc1d1db"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "18503e31"
+                ],
+                [
+                    "ShadowRamp",
+                    ".jpg",
+                    "58d2635b"
+                ]
+            ]
+        ],
+        "first_vs": "4548f0ce0f18b782"
+    },
+    {
+        "component_name": "Head",
+        "root_vs": "e8425f64cfb887cd",
+        "draw_vb": "ae996433",
+        "position_vb": "adf8b2de",
+        "blend_vb": "5311cf0a",
+        "texcoord_vb": "83887f2a",
+        "ib": "75fca075",
+        "object_indexes": [
+            0,
+            11250
+        ],
+        "object_classifications": [
+            "A",
+            "B"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "19cae91f"
+                ]
+            ],
+            []
+        ],
+        "first_vs": "d9b883abe316242c"
+    },
+    {
+        "component_name": "Body",
+        "root_vs": "e8425f64cfb887cd",
+        "draw_vb": "ceff860d",
+        "position_vb": "7d083a6d",
+        "blend_vb": "208022e7",
+        "texcoord_vb": "69a81bdb",
+        "ib": "b1c2c937",
+        "object_indexes": [
+            0,
+            28818,
+            51666,
+            52734
+        ],
+        "object_classifications": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "b6dea863"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "b4d0253c"
+                ],
+                [
+                    "ShadowRamp",
+                    ".jpg",
+                    "078177f1"
+                ],
+                [
+                    "StockingMap",
+                    ".dds",
+                    "9233c696"
+                ]
+            ],
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "e7afec9f"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "c2817103"
+                ],
+                [
+                    "ShadowRamp",
+                    ".jpg",
+                    "078177f1"
+                ],
+                [
+                    "StockingMap",
+                    ".dds",
+                    "ca76ff40"
+                ]
+            ],
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "b6dea863"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "b4d0253c"
+                ],
+                [
+                    "ShadowRamp",
+                    ".jpg",
+                    "078177f1"
+                ],
+                [
+                    "StockingMap",
+                    ".dds",
+                    "9233c696"
+                ]
+            ],
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "e7afec9f"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "c2817103"
+                ],
+                [
+                    "ShadowRamp",
+                    ".jpg",
+                    "078177f1"
+                ],
+                [
+                    "StockingMap",
+                    ".dds",
+                    "ca76ff40"
+                ]
+            ]
+        ],
+        "first_vs": "2caeb828e4f7aa8a"
+    }
+]

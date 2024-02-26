@@ -32,7 +32,7 @@
                 ]
             ]
         ],
-        "first_vs": "442888ec07379143"
+        "first_vs": "4548f0ce0f18b782"
     },
     {
         "component_name": "Head",
@@ -56,63 +56,51 @@
                     "Diffuse",
                     ".dds",
                     "af6f0aa8"
-                ],
-                [
-                    "LightMap",
-                    ".dds",
-                    "bb5905b2"
-                ],
-                [
-                    "Shadow",
-                    ".dds",
-                    "dd2d6fde"
-                ],
-                [
-                    "t3",
-                    ".dds",
-                    "efc71230"
                 ]
             ],
-            [
-                [
-                    "Diffuse",
-                    ".dds",
-                    "dd2d6fde"
-                ],
-                [
-                    "LightMap",
-                    ".dds",
-                    "bb5905b2"
-                ],
-                [
-                    "Shadow",
-                    ".dds",
-                    "efc71230"
-                ]
-            ]
+            []
         ],
-        "first_vs": "d45c2196dc7e6526"
+        "first_vs": "d9b883abe316242c"
     },
     {
         "component_name": "Body",
         "root_vs": "e8425f64cfb887cd",
         "draw_vb": "efd60e3d",
         "position_vb": "5c21b25d",
-        "blend_vb": "05ac08a8",
-        "texcoord_vb": "6fc50cb8",
-        "ib": "c20cd648",
+        "blend_vb": "fd42c2bc",
+        "texcoord_vb": "9801327a",
+        "ib": "d03803e6",
         "object_indexes": [
-            0
+            0,
+            55983
         ],
         "object_classifications": [
-            "A"
+            "A",
+            "B"
         ],
         "texture_hashes": [
             [
                 [
                     "Diffuse",
                     ".dds",
-                    "a3fe2b8f"
+                    "4e8f9778"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "035f0719"
+                ],
+                [
+                    "ShadowRamp",
+                    ".jpg",
+                    "078177f1"
+                ]
+            ],
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "4e8f9778"
                 ],
                 [
                     "LightMap",
@@ -126,6 +114,6 @@
                 ]
             ]
         ],
-        "first_vs": "8fdb5b35d9d54399"
+        "first_vs": "2caeb828e4f7aa8a"
     }
 ]
