@@ -82,24 +82,12 @@
             "C",
             "D"
         ],
+        "comments": [
+            "Body parts A and B use the same textures except for the StockingMap that's only used on B",
+            "Body parts C and D use the same textures except for the StockingMap that's only used on D"
+        ],
         "texture_hashes": [
-            [
-                [
-                    "Diffuse",
-                    ".dds",
-                    "209f5c65"
-                ],
-                [
-                    "LightMap",
-                    ".dds",
-                    "bfd47fe8"
-                ],
-                [
-                    "ShadowRamp",
-                    ".jpg",
-                    "078177f1"
-                ]
-            ],
+            [],
             [
                 [
                     "Diffuse",
@@ -122,23 +110,7 @@
                     "88be8df6"
                 ]
             ],
-            [
-                [
-                    "Diffuse",
-                    ".dds",
-                    "3bd51af4"
-                ],
-                [
-                    "LightMap",
-                    ".dds",
-                    "2799f499"
-                ],
-                [
-                    "ShadowRamp",
-                    ".jpg",
-                    "078177f1"
-                ]
-            ],
+            [],
             [
                 [
                     "Diffuse",
