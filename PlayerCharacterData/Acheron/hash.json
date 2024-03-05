@@ -48,24 +48,11 @@
         "object_classifications": [
             "A"
         ],
+        "comments": [
+            "Uses the same textures as Hair"
+        ],
         "texture_hashes": [
-            [
-                [
-                    "Diffuse",
-                    ".dds",
-                    "ca948c6c"
-                ],
-                [
-                    "LightMap",
-                    ".dds",
-                    "15cacc23"
-                ],
-                [
-                    "ShadowRamp",
-                    ".jpg",
-                    "58d2635b"
-                ]
-            ]
+            []
         ],
         "first_vs": "4548f0ce0f18b782"
     },
@@ -113,6 +100,9 @@
             "A",
             "B"
         ],
+        "comments": [
+            "Body parts A and B use the same textures"
+        ],
         "texture_hashes": [
             [
                 [
@@ -131,23 +121,7 @@
                     "078177f1"
                 ]
             ],
-            [
-                [
-                    "Diffuse",
-                    ".dds",
-                    "b2c64915"
-                ],
-                [
-                    "LightMap",
-                    ".dds",
-                    "594f9d6e"
-                ],
-                [
-                    "ShadowRamp",
-                    ".jpg",
-                    "078177f1"
-                ]
-            ]
+            []
         ],
         "first_vs": "923dc8c67367b288"
     }

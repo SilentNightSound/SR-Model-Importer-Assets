@@ -77,6 +77,10 @@
             12510,
             47880
         ],
+        "comments": [
+            "Body parts A and D use the same textures",
+            "Body parts B, C, and E use the same textures"
+        ],
         "object_classifications": [
             "A",
             "B",
@@ -119,57 +123,9 @@
                     "078177f1"
                 ]
             ],
-            [
-                [
-                    "Diffuse",
-                    ".dds",
-                    "3cc949c8"
-                ],
-                [
-                    "LightMap",
-                    ".dds",
-                    "701d9092"
-                ],
-                [
-                    "ShadowRamp",
-                    ".jpg",
-                    "078177f1"
-                ]
-            ],
-            [
-                [
-                    "Diffuse",
-                    ".dds",
-                    "fb0f55f4"
-                ],
-                [
-                    "LightMap",
-                    ".dds",
-                    "088765db"
-                ],
-                [
-                    "ShadowRamp",
-                    ".jpg",
-                    "078177f1"
-                ]
-            ],
-            [
-                [
-                    "Diffuse",
-                    ".dds",
-                    "3cc949c8"
-                ],
-                [
-                    "LightMap",
-                    ".dds",
-                    "701d9092"
-                ],
-                [
-                    "ShadowRamp",
-                    ".jpg",
-                    "078177f1"
-                ]
-            ]
+            [],
+            [],
+            []
         ],
         "first_vs": "2caeb828e4f7aa8a"
     }

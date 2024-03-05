@@ -82,6 +82,10 @@
             "C",
             "D"
         ],
+        "comments": [
+            "Body parts A and C use the same textures",
+            "Body parts B and D use the same textures"
+        ],
         "texture_hashes": [
             [
                 [
@@ -127,50 +131,8 @@
                     "ca76ff40"
                 ]
             ],
-            [
-                [
-                    "Diffuse",
-                    ".dds",
-                    "b6dea863"
-                ],
-                [
-                    "LightMap",
-                    ".dds",
-                    "b4d0253c"
-                ],
-                [
-                    "ShadowRamp",
-                    ".jpg",
-                    "078177f1"
-                ],
-                [
-                    "StockingMap",
-                    ".dds",
-                    "9233c696"
-                ]
-            ],
-            [
-                [
-                    "Diffuse",
-                    ".dds",
-                    "e7afec9f"
-                ],
-                [
-                    "LightMap",
-                    ".dds",
-                    "c2817103"
-                ],
-                [
-                    "ShadowRamp",
-                    ".jpg",
-                    "078177f1"
-                ],
-                [
-                    "StockingMap",
-                    ".dds",
-                    "ca76ff40"
-                ]
-            ]
+            [],
+            []
         ],
         "first_vs": "2caeb828e4f7aa8a"
     }

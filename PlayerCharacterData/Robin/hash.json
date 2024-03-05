@@ -78,6 +78,9 @@
             "A",
             "B"
         ],
+        "comments": [
+            "Body parts A and B use the same textures"
+        ],
         "texture_hashes": [
             [
                 [
@@ -96,23 +99,7 @@
                     "078177f1"
                 ]
             ],
-            [
-                [
-                    "Diffuse",
-                    ".dds",
-                    "312e2c95"
-                ],
-                [
-                    "LightMap",
-                    ".dds",
-                    "4c249936"
-                ],
-                [
-                    "ShadowRamp",
-                    ".jpg",
-                    "078177f1"
-                ]
-            ]
+            []
         ],
         "first_vs": "f6fdad0f755a1bc8"
     }
