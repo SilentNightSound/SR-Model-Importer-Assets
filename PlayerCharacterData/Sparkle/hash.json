@@ -105,5 +105,26 @@
             []
         ],
         "first_vs": "2caeb828e4f7aa8a"
+    },
+    {
+        "component_name": "IdleMask",
+        "draw_vb": "d1bb0a3c",
+        "position_vb": "d1bb0a3c",
+        "blend_vb": "",
+        "texcoord_vb": "",
+        "ib": "736629ea",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "comments": [
+            "Uses same textures as Body parts A, B, and C"
+        ],
+        "texture_hashes": [
+            []
+        ],
+        "first_vs": "923dc8c67367b288"
     }
 ]
