@@ -32,7 +32,7 @@
                 ]
             ]
         ],
-        "first_vs": "4548f0ce0f18b782"
+        "first_vs": "ed57f0d66a69ef8f"
     },
     {
         "component_name": "Head",
@@ -60,7 +60,7 @@
             ],
             []
         ],
-        "first_vs": "d9b883abe316242c"
+        "first_vs": "1e9ddf4cb90979fa"
     },
     {
         "component_name": "Body",
@@ -68,7 +68,7 @@
         "draw_vb": "aa893f33",
         "position_vb": "197e8353",
         "blend_vb": "b4ec029d",
-        "texcoord_vb": "96f25869",
+        "texcoord_vb": "562fbdb4",
         "ib": "b194833e",
         "object_indexes": [
             0,
@@ -106,6 +106,6 @@
             ],
             []
         ],
-        "first_vs": "2caeb828e4f7aa8a"
+        "first_vs": "78de44639812e493"
     }
 ]

@@ -32,15 +32,15 @@
                 ]
             ]
         ],
-        "first_vs": "4548f0ce0f18b782"
+        "first_vs": "ed57f0d66a69ef8f"
     },
     {
         "component_name": "Head",
         "root_vs": "e8425f64cfb887cd",
         "draw_vb": "56ce3fd0",
-        "position_vb": "0f570849",
+        "position_vb": "be8ee647",
         "blend_vb": "999dff73",
-        "texcoord_vb": "8aa3d867",
+        "texcoord_vb": "ee650b42",
         "ib": "972ab7a1",
         "object_indexes": [
             0,
@@ -60,7 +60,7 @@
             ],
             []
         ],
-        "first_vs": "d9b883abe316242c"
+        "first_vs": "1e9ddf4cb90979fa"
     },
     {
         "component_name": "Body",

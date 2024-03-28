@@ -32,13 +32,13 @@
                 ]
             ]
         ],
-        "first_vs": "4548f0ce0f18b782"
+        "first_vs": "ed57f0d66a69ef8f"
     },
     {
         "component_name": "Head",
         "root_vs": "e8425f64cfb887cd",
         "draw_vb": "7df52768",
-        "position_vb": "7897b0f7",
+        "position_vb": "ad82dc30",
         "blend_vb": "d6703a6e",
         "texcoord_vb": "b281e41c",
         "ib": "def114e4",
@@ -60,14 +60,14 @@
             ],
             []
         ],
-        "first_vs": "d9b883abe316242c"
+        "first_vs": "1e9ddf4cb90979fa"
     },
     {
         "component_name": "Body",
         "root_vs": "e8425f64cfb887cd",
         "draw_vb": "a9bd2aa3",
         "position_vb": "1a4a96c3",
-        "blend_vb": "db52a181",
+        "blend_vb": "8e11bb4f",
         "texcoord_vb": "982bd8c4",
         "ib": "47afa256",
         "object_indexes": [
@@ -104,6 +104,6 @@
             [],
             []
         ],
-        "first_vs": "2caeb828e4f7aa8a"
+        "first_vs": "78de44639812e493"
     }
 ]

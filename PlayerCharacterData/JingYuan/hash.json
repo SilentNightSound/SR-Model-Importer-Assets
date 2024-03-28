@@ -32,16 +32,16 @@
                 ]
             ]
         ],
-        "first_vs": "4548f0ce0f18b782"
+        "first_vs": "ed57f0d66a69ef8f"
     },
     {
         "component_name": "Head",
         "root_vs": "e8425f64cfb887cd",
-        "draw_vb": "061dd140",
-        "position_vb": "ee205a7b",
-        "blend_vb": "207aadaa",
-        "texcoord_vb": "7c112f46",
-        "ib": "22147cfe",
+        "draw_vb": "c8841602",
+        "position_vb": "9d60acea",
+        "blend_vb": "61d571f5",
+        "texcoord_vb": "20110b85",
+        "ib": "a0459b05",
         "object_indexes": [
             0,
             12666
@@ -60,19 +60,19 @@
             ],
             []
         ],
-        "first_vs": "d9b883abe316242c"
+        "first_vs": "1e9ddf4cb90979fa"
     },
     {
         "component_name": "Body",
         "root_vs": "e8425f64cfb887cd",
         "draw_vb": "baaa1347",
         "position_vb": "095daf27",
-        "blend_vb": "f4f17fb3",
-        "texcoord_vb": "3423e10d",
-        "ib": "1240ff30",
+        "blend_vb": "b2bf1378",
+        "texcoord_vb": "ebde517e",
+        "ib": "b2501828",
         "object_indexes": [
             0,
-            11505,
+            11589,
             17772,
             53565
         ],
@@ -124,6 +124,6 @@
             ],
             []
         ],
-        "first_vs": "2caeb828e4f7aa8a"
+        "first_vs": "78de44639812e493"
     }
 ]
