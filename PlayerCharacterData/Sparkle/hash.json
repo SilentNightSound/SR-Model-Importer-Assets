@@ -32,7 +32,7 @@
                 ]
             ]
         ],
-        "first_vs": "4548f0ce0f18b782"
+        "first_vs": "ed57f0d66a69ef8f"
     },
     {
         "component_name": "Head",
@@ -60,16 +60,16 @@
             ],
             []
         ],
-        "first_vs": "d9b883abe316242c"
+        "first_vs": "1e9ddf4cb90979fa"
     },
     {
         "component_name": "Body",
         "root_vs": "e8425f64cfb887cd",
         "draw_vb": "c22dc904",
         "position_vb": "71da7564",
-        "blend_vb": "3820dbd1",
-        "texcoord_vb": "28788045",
-        "ib": "74660eca",
+        "blend_vb": "91b9fb51",
+        "texcoord_vb": "d51f3972",
+        "ib": "68121fd3",
         "object_indexes": [
             0,
             67665,
@@ -104,6 +104,27 @@
             [],
             []
         ],
-        "first_vs": "2caeb828e4f7aa8a"
+        "first_vs": "78de44639812e493"
+    },
+    {
+        "component_name": "IdleMask",
+        "draw_vb": "d1bb0a3c",
+        "position_vb": "d1bb0a3c",
+        "blend_vb": "",
+        "texcoord_vb": "",
+        "ib": "736629ea",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "comments": [
+            "Uses same textures as Body parts A, B, and C"
+        ],
+        "texture_hashes": [
+            []
+        ],
+        "first_vs": "b7ebde2406027006"
     }
 ]
