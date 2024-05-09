@@ -79,7 +79,8 @@
             "B"
         ],
         "comments": [
-            "Body parts A and B use the same textures"
+            "Body parts A and B use the same textures",
+            "Starry Sky effect appears only on Body part B"
         ],
         "texture_hashes": [
             [
@@ -99,7 +100,13 @@
                     "078177f1"
                 ]
             ],
-            []
+            [
+                [
+                    "StarrySkyMask",
+                    ".dds",
+                    "9e6b5969"
+                ]
+            ]
         ],
         "first_vs": "f79568588e9cf9a1"
     }
