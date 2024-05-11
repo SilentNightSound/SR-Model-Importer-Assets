@@ -1,0 +1,106 @@
+[
+    {
+        "component_name": "Hair",
+        "root_vs": "e8425f64cfb887cd",
+        "draw_vb": "3437de1d",
+        "position_vb": "870564f1",
+        "blend_vb": "6786de68",
+        "texcoord_vb": "3fc38f8a",
+        "ib": "c74d60d8",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "7de7f0c0"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "c17e8830"
+                ],
+                [
+                    "ShadowRamp",
+                    ".jpg",
+                    "58d2635b"
+                ]
+            ]
+        ],
+        "first_vs": "4548f0ce0f18b782"
+    },
+    {
+        "component_name": "Head",
+        "root_vs": "e8425f64cfb887cd",
+        "draw_vb": "5df1352e",
+        "position_vb": "d667a346",
+        "blend_vb": "abdc67e6",
+        "texcoord_vb": "9108c1f1",
+        "ib": "c1004613",
+        "object_indexes": [
+            0,
+            13716
+        ],
+        "object_classifications": [
+            "A",
+            "B"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "b193e6d8"
+                ]
+            ],
+            []
+        ],
+        "first_vs": "d9b883abe316242c"
+    },
+    {
+        "component_name": "Body",
+        "root_vs": "e8425f64cfb887cd",
+        "draw_vb": "91022b8f",
+        "position_vb": "22f597ef",
+        "blend_vb": "9e7ca423",
+        "texcoord_vb": "44da446d",
+        "ib": "a270e292",
+        "object_indexes": [
+            0,
+            37674
+        ],
+        "object_classifications": [
+            "A",
+            "B"
+        ],
+        "comments": [
+            "Body parts A and B use the same textures"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "28d09106"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "0fe66c92"
+                ],
+                [
+                    "ShadowRamp",
+                    ".jpg",
+                    "078177f1"
+                ]
+            ],
+            []
+        ],
+        "first_vs": "2caeb828e4f7aa8a"
+    }
+]
