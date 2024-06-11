@@ -18,21 +18,15 @@
                 [
                     "Diffuse",
                     ".dds",
-                    "95e614e5"
+                    "636dc89e"
                 ],
                 [
                     "LightMap",
                     ".dds",
-                    "728565ee"
-                ],
-                [
-                    "ShadowRamp",
-                    ".jpg",
-                    "58d2635b"
+                    "0e484aa5"
                 ]
             ]
-        ],
-        "first_vs": "4548f0ce0f18b782"
+        ]
     },
     {
         "component_name": "Head",
@@ -55,12 +49,11 @@
                 [
                     "Diffuse",
                     ".dds",
-                    "9d7ea82f"
+                    "1897cfee"
                 ]
             ],
             []
-        ],
-        "first_vs": "d9b883abe316242c"
+        ]
     },
     {
         "component_name": "Body",
@@ -91,17 +84,12 @@
                 [
                     "Diffuse",
                     ".dds",
-                    "e4ccda3f"
+                    "98507746"
                 ],
                 [
                     "LightMap",
                     ".dds",
-                    "653b35cd"
-                ],
-                [
-                    "ShadowRamp",
-                    ".jpg",
-                    "078177f1"
+                    "3134e1e4"
                 ]
             ],
             [],
@@ -109,21 +97,15 @@
                 [
                     "Diffuse",
                     ".dds",
-                    "4724e9c1"
+                    "79354f80"
                 ],
                 [
                     "LightMap",
                     ".dds",
-                    "d2e9d4dc"
-                ],
-                [
-                    "ShadowRamp",
-                    ".jpg",
-                    "078177f1"
+                    "1e9893b3"
                 ]
             ],
             []
-        ],
-        "first_vs": "2caeb828e4f7aa8a"
+        ]
     }
 ]

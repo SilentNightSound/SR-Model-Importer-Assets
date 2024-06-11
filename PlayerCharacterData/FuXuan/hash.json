@@ -5,7 +5,7 @@
         "draw_vb": "84ba05f1",
         "position_vb": "5f23a159",
         "blend_vb": "8f1c057c",
-        "texcoord_vb": "73b1fe83",
+        "texcoord_vb": "f498555d",
         "ib": "a628f540",
         "object_indexes": [
             0
@@ -18,21 +18,15 @@
                 [
                     "Diffuse",
                     ".dds",
-                    "df067d4d"
+                    "afb05dab"
                 ],
                 [
                     "LightMap",
                     ".dds",
-                    "dfc8fb64"
-                ],
-                [
-                    "ShadowRamp",
-                    ".jpg",
-                    "58d2635b"
+                    "d4b96cd1"
                 ]
             ]
-        ],
-        "first_vs": "4548f0ce0f18b782"
+        ]
     },
     {
         "component_name": "Head",
@@ -55,12 +49,11 @@
                 [
                     "Diffuse",
                     ".dds",
-                    "0dd26508"
+                    "0bf30362"
                 ]
             ],
             []
-        ],
-        "first_vs": "d9b883abe316242c"
+        ]
     },
     {
         "component_name": "Body",
@@ -91,44 +84,33 @@
                 [
                     "Diffuse",
                     ".dds",
-                    "9e822610"
+                    "6455fc0a"
                 ],
                 [
                     "LightMap",
                     ".dds",
-                    "50b30274"
-                ],
-                [
-                    "ShadowRamp",
-                    ".jpg",
-                    "078177f1"
+                    "4ba289bf"
                 ]
             ],
             [
                 [
                     "Diffuse",
                     ".dds",
-                    "0172c74d"
+                    "09c78c66"
                 ],
                 [
                     "LightMap",
                     ".dds",
-                    "d9171ad6"
-                ],
-                [
-                    "ShadowRamp",
-                    ".jpg",
-                    "078177f1"
+                    "ce81f2e6"
                 ],
                 [
                     "StockingMap",
                     ".dds",
-                    "02291372"
+                    "c7b3e7bd"
                 ]
             ],
             [],
             []
-        ],
-        "first_vs": "2caeb828e4f7aa8a"
+        ]
     }
 ]

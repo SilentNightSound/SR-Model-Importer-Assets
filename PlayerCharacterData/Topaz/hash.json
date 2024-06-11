@@ -2,11 +2,11 @@
     {
         "component_name": "Hair",
         "root_vs": "e8425f64cfb887cd",
-        "draw_vb": "0dd40a0b",
-        "position_vb": "7fac28de",
-        "blend_vb": "77cef0b5",
-        "texcoord_vb": "b8ec605d",
-        "ib": "f1a4401b",
+        "draw_vb": "cc870789",
+        "position_vb": "a413be23",
+        "blend_vb": "cbd71321",
+        "texcoord_vb": "b131f866",
+        "ib": "32ef4b75",
         "object_indexes": [
             0
         ],
@@ -18,21 +18,15 @@
                 [
                     "Diffuse",
                     ".dds",
-                    "943bf9d3"
+                    "78059f75"
                 ],
                 [
                     "LightMap",
                     ".dds",
-                    "67df29ec"
-                ],
-                [
-                    "ShadowRamp",
-                    ".jpg",
-                    "58d2635b"
+                    "39fd4ba7"
                 ]
             ]
-        ],
-        "first_vs": "4548f0ce0f18b782"
+        ]
     },
     {
         "component_name": "Head",
@@ -55,12 +49,11 @@
                 [
                     "Diffuse",
                     ".dds",
-                    "fea9fff4"
+                    "fc521095"
                 ]
             ],
             []
-        ],
-        "first_vs": "d9b883abe316242c"
+        ]
     },
     {
         "component_name": "Body",
@@ -68,7 +61,7 @@
         "draw_vb": "9d5cd14d",
         "position_vb": "2eab6d2d",
         "blend_vb": "55ef95d4",
-        "texcoord_vb": "436288c9",
+        "texcoord_vb": "4be08333",
         "ib": "b52297bf",
         "object_indexes": [
             0,
@@ -82,26 +75,17 @@
             "C",
             "D"
         ],
-        "comments": [
-            "Body parts A and B use the same textures",
-            "Body parts C and D use the same textures"
-        ],
         "texture_hashes": [
             [
                 [
                     "Diffuse",
                     ".dds",
-                    "96f5e350"
+                    "3dfd62b8"
                 ],
                 [
                     "LightMap",
                     ".dds",
-                    "6a0ee180"
-                ],
-                [
-                    "ShadowRamp",
-                    ".jpg",
-                    "078177f1"
+                    "b8c954ef"
                 ]
             ],
             [],
@@ -109,21 +93,15 @@
                 [
                     "Diffuse",
                     ".dds",
-                    "68b887db"
+                    "13be2437"
                 ],
                 [
                     "LightMap",
                     ".dds",
-                    "924edd3e"
-                ],
-                [
-                    "ShadowRamp",
-                    ".jpg",
-                    "078177f1"
+                    "786f6565"
                 ]
             ],
             []
-        ],
-        "first_vs": "923dc8c67367b288"
+        ]
     }
 ]

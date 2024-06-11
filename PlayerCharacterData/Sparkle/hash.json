@@ -18,21 +18,15 @@
                 [
                     "Diffuse",
                     ".dds",
-                    "1d7ed602"
+                    "a4f91fac"
                 ],
                 [
                     "LightMap",
                     ".dds",
-                    "07b2e4b7"
-                ],
-                [
-                    "ShadowRamp",
-                    ".jpg",
-                    "58d2635b"
+                    "df96b015"
                 ]
             ]
-        ],
-        "first_vs": "ed57f0d66a69ef8f"
+        ]
     },
     {
         "component_name": "Head",
@@ -55,12 +49,11 @@
                 [
                     "Diffuse",
                     ".dds",
-                    "6594fbb2"
+                    "09733ebc"
                 ]
             ],
             []
-        ],
-        "first_vs": "1e9ddf4cb90979fa"
+        ]
     },
     {
         "component_name": "Body",
@@ -88,23 +81,17 @@
                 [
                     "Diffuse",
                     ".dds",
-                    "fac7d488"
+                    "17999c91"
                 ],
                 [
                     "LightMap",
                     ".dds",
-                    "a4974a51"
-                ],
-                [
-                    "ShadowRamp",
-                    ".jpg",
-                    "078177f1"
+                    "f806d2e4"
                 ]
             ],
             [],
             []
-        ],
-        "first_vs": "78de44639812e493"
+        ]
     },
     {
         "component_name": "IdleMask",
@@ -124,7 +111,6 @@
         ],
         "texture_hashes": [
             []
-        ],
-        "first_vs": "b7ebde2406027006"
+        ]
     }
 ]

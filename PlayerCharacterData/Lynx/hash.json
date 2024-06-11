@@ -18,21 +18,15 @@
                 [
                     "Diffuse",
                     ".dds",
-                    "6d27e7f2"
+                    "f4db275c"
                 ],
                 [
                     "LightMap",
                     ".dds",
-                    "a874888b"
-                ],
-                [
-                    "ShadowRamp",
-                    ".jpg",
-                    "58d2635b"
+                    "8dc79479"
                 ]
             ]
-        ],
-        "first_vs": "4548f0ce0f18b782"
+        ]
     },
     {
         "component_name": "Head",
@@ -55,12 +49,11 @@
                 [
                     "Diffuse",
                     ".dds",
-                    "3e2ad9b8"
+                    "e5d8fa29"
                 ]
             ],
             []
-        ],
-        "first_vs": "d9b883abe316242c"
+        ]
     },
     {
         "component_name": "Body",
@@ -68,7 +61,7 @@
         "draw_vb": "ba91c796",
         "position_vb": "09667bf6",
         "blend_vb": "fa9c73b8",
-        "texcoord_vb": "52a44eba",
+        "texcoord_vb": "bffadc55",
         "ib": "71647b48",
         "object_indexes": [
             0,
@@ -86,21 +79,15 @@
                 [
                     "Diffuse",
                     ".dds",
-                    "e2bad880"
+                    "6c664cc4"
                 ],
                 [
                     "LightMap",
                     ".dds",
-                    "6cb92f15"
-                ],
-                [
-                    "ShadowRamp",
-                    ".jpg",
-                    "078177f1"
+                    "540bf4e4"
                 ]
             ],
             []
-        ],
-        "first_vs": "2caeb828e4f7aa8a"
+        ]
     }
 ]

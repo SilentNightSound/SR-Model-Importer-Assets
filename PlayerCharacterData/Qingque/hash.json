@@ -18,21 +18,15 @@
                 [
                     "Diffuse",
                     ".dds",
-                    "73fbbace"
+                    "d9e91d27"
                 ],
                 [
                     "LightMap",
                     ".dds",
-                    "48829296"
-                ],
-                [
-                    "ShadowRamp",
-                    ".jpg",
-                    "58d2635b"
+                    "ddabcef6"
                 ]
             ]
-        ],
-        "first_vs": "4548f0ce0f18b782"
+        ]
     },
     {
         "component_name": "Head",
@@ -55,21 +49,20 @@
                 [
                     "Diffuse",
                     ".dds",
-                    "c2559faf"
+                    "5421f07d"
                 ]
             ],
             []
-        ],
-        "first_vs": "d9b883abe316242c"
+        ]
     },
     {
         "component_name": "Body",
         "root_vs": "e8425f64cfb887cd",
-        "draw_vb": "55e1b1f8",
-        "position_vb": "e6160d98",
-        "blend_vb": "05c192d9",
-        "texcoord_vb": "cc2db614",
-        "ib": "0a82ceb7",
+        "draw_vb": "311daa47",
+        "position_vb": "82ea1627",
+        "blend_vb": "109719da",
+        "texcoord_vb": "d97fd893",
+        "ib": "21856dc2",
         "object_indexes": [
             0,
             23730,
@@ -91,17 +84,12 @@
                 [
                     "Diffuse",
                     ".dds",
-                    "ff995bd0"
+                    "d92826b3"
                 ],
                 [
                     "LightMap",
                     ".dds",
-                    "2d563efe"
-                ],
-                [
-                    "ShadowRamp",
-                    ".jpg",
-                    "078177f1"
+                    "a85d8219"
                 ]
             ],
             [],
@@ -109,21 +97,15 @@
                 [
                     "Diffuse",
                     ".dds",
-                    "149c086c"
+                    "92c74827"
                 ],
                 [
                     "LightMap",
                     ".dds",
-                    "2b135afe"
-                ],
-                [
-                    "ShadowRamp",
-                    ".jpg",
-                    "078177f1"
+                    "f57f3990"
                 ]
             ],
             []
-        ],
-        "first_vs": "2caeb828e4f7aa8a"
+        ]
     }
 ]

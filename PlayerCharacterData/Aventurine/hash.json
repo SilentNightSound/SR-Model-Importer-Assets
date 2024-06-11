@@ -2,11 +2,11 @@
     {
         "component_name": "Hair",
         "root_vs": "e8425f64cfb887cd",
-        "draw_vb": "c4c588df",
-        "position_vb": "015c8a86",
-        "blend_vb": "f3f2b624",
-        "texcoord_vb": "811fa2ca",
-        "ib": "015f4887",
+        "draw_vb": "2a1a1775",
+        "position_vb": "8de65cb9",
+        "blend_vb": "dbef38cc",
+        "texcoord_vb": "32da43dd",
+        "ib": "59d6021b",
         "object_indexes": [
             0
         ],
@@ -18,21 +18,15 @@
                 [
                     "Diffuse",
                     ".dds",
-                    "7f4af1d5"
+                    "7e21ce24"
                 ],
                 [
                     "LightMap",
                     ".dds",
-                    "3bbbdfcc"
-                ],
-                [
-                    "ShadowRamp",
-                    ".jpg",
-                    "58d2635b"
+                    "4699613b"
                 ]
             ]
-        ],
-        "first_vs": "ed57f0d66a69ef8f"
+        ]
     },
     {
         "component_name": "Head",
@@ -55,12 +49,11 @@
                 [
                     "Diffuse",
                     ".dds",
-                    "c484fc3a"
+                    "d4874355"
                 ]
             ],
             []
-        ],
-        "first_vs": "1e9ddf4cb90979fa"
+        ]
     },
     {
         "component_name": "Body",
@@ -68,7 +61,7 @@
         "draw_vb": "a9bd2aa3",
         "position_vb": "1a4a96c3",
         "blend_vb": "8e11bb4f",
-        "texcoord_vb": "982bd8c4",
+        "texcoord_vb": "53bdb739",
         "ib": "47afa256",
         "object_indexes": [
             0,
@@ -88,22 +81,16 @@
                 [
                     "Diffuse",
                     ".dds",
-                    "53c4098f"
+                    "b1cd8482"
                 ],
                 [
                     "LightMap",
                     ".dds",
-                    "6c801b21"
-                ],
-                [
-                    "ShadowRamp",
-                    ".jpg",
-                    "078177f1"
+                    "115d50a7"
                 ]
             ],
             [],
             []
-        ],
-        "first_vs": "78de44639812e493"
+        ]
     }
 ]
