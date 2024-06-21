@@ -18,21 +18,15 @@
                 [
                     "Diffuse",
                     ".dds",
-                    "8bc1d1db"
+                    "7b9e82c5"
                 ],
                 [
                     "LightMap",
                     ".dds",
-                    "18503e31"
-                ],
-                [
-                    "ShadowRamp",
-                    ".jpg",
-                    "58d2635b"
+                    "44c3983d"
                 ]
             ]
-        ],
-        "first_vs": "4548f0ce0f18b782"
+        ]
     },
     {
         "component_name": "Head",
@@ -55,12 +49,11 @@
                 [
                     "Diffuse",
                     ".dds",
-                    "19cae91f"
+                    "6d95729a"
                 ]
             ],
             []
-        ],
-        "first_vs": "d9b883abe316242c"
+        ]
     },
     {
         "component_name": "Body",
@@ -91,49 +84,38 @@
                 [
                     "Diffuse",
                     ".dds",
-                    "b6dea863"
+                    "3a1da416"
                 ],
                 [
                     "LightMap",
                     ".dds",
-                    "b4d0253c"
-                ],
-                [
-                    "ShadowRamp",
-                    ".jpg",
-                    "078177f1"
+                    "7c08d55d"
                 ],
                 [
                     "StockingMap",
                     ".dds",
-                    "9233c696"
+                    "162667f6"
                 ]
             ],
             [
                 [
                     "Diffuse",
                     ".dds",
-                    "e7afec9f"
+                    "d927b45a"
                 ],
                 [
                     "LightMap",
                     ".dds",
-                    "c2817103"
-                ],
-                [
-                    "ShadowRamp",
-                    ".jpg",
-                    "078177f1"
+                    "537979fe"
                 ],
                 [
                     "StockingMap",
                     ".dds",
-                    "ca76ff40"
+                    "61d0592b"
                 ]
             ],
             [],
             []
-        ],
-        "first_vs": "2caeb828e4f7aa8a"
+        ]
     }
 ]

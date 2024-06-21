@@ -5,7 +5,7 @@
         "draw_vb": "3437de1d",
         "position_vb": "870564f1",
         "blend_vb": "6786de68",
-        "texcoord_vb": "3fc38f8a",
+        "texcoord_vb": "f4f5c11d",
         "ib": "c74d60d8",
         "object_indexes": [
             0
@@ -18,21 +18,15 @@
                 [
                     "Diffuse",
                     ".dds",
-                    "7de7f0c0"
+                    "fa0975b2"
                 ],
                 [
                     "LightMap",
                     ".dds",
-                    "c17e8830"
-                ],
-                [
-                    "ShadowRamp",
-                    ".jpg",
-                    "58d2635b"
+                    "d75c3881"
                 ]
             ]
-        ],
-        "first_vs": "4548f0ce0f18b782"
+        ]
     },
     {
         "component_name": "Head",
@@ -55,12 +49,11 @@
                 [
                     "Diffuse",
                     ".dds",
-                    "b193e6d8"
+                    "21b96557"
                 ]
             ],
             []
-        ],
-        "first_vs": "d9b883abe316242c"
+        ]
     },
     {
         "component_name": "Body",
@@ -78,29 +71,20 @@
             "A",
             "B"
         ],
-        "comments": [
-            "Body parts A and B use the same textures"
-        ],
         "texture_hashes": [
             [
                 [
                     "Diffuse",
                     ".dds",
-                    "28d09106"
+                    "3e8e34d5"
                 ],
                 [
                     "LightMap",
                     ".dds",
-                    "0fe66c92"
-                ],
-                [
-                    "ShadowRamp",
-                    ".jpg",
-                    "078177f1"
+                    "6194fa1b"
                 ]
             ],
             []
-        ],
-        "first_vs": "2caeb828e4f7aa8a"
+        ]
     }
 ]

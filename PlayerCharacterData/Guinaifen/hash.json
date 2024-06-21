@@ -18,21 +18,15 @@
                 [
                     "Diffuse",
                     ".dds",
-                    "c88f1557"
+                    "fbd7db30"
                 ],
                 [
                     "LightMap",
                     ".dds",
-                    "33043521"
-                ],
-                [
-                    "ShadowRamp",
-                    ".jpg",
-                    "58d2635b"
+                    "c6e13e26"
                 ]
             ]
-        ],
-        "first_vs": "4548f0ce0f18b782"
+        ]
     },
     {
         "component_name": "Head",
@@ -55,12 +49,11 @@
                 [
                     "Diffuse",
                     ".dds",
-                    "7c097e20"
+                    "81dd54bc"
                 ]
             ],
             []
-        ],
-        "first_vs": "d9b883abe316242c"
+        ]
     },
     {
         "component_name": "Body",
@@ -91,22 +84,17 @@
                 [
                     "Diffuse",
                     ".dds",
-                    "e73b9426"
+                    "ae6de86c"
                 ],
                 [
                     "LightMap",
                     ".dds",
-                    "d6a8cff9"
-                ],
-                [
-                    "ShadowRamp",
-                    ".jpg",
-                    "078177f1"
+                    "4092649e"
                 ],
                 [
                     "StockingMap",
                     ".dds",
-                    "47551426"
+                    "caf58d2a"
                 ]
             ],
             [],
@@ -114,21 +102,15 @@
                 [
                     "Diffuse",
                     ".dds",
-                    "d5d770b0"
+                    "b710c78e"
                 ],
                 [
                     "LightMap",
                     ".dds",
-                    "a72e61d5"
-                ],
-                [
-                    "ShadowRamp",
-                    ".jpg",
-                    "078177f1"
+                    "4463cc21"
                 ]
             ],
             []
-        ],
-        "first_vs": "2caeb828e4f7aa8a"
+        ]
     }
 ]

@@ -2,11 +2,11 @@
     {
         "component_name": "Hair",
         "root_vs": "e8425f64cfb887cd",
-        "draw_vb": "cde8d751",
-        "position_vb": "4e29dad2",
-        "blend_vb": "ed4eea96",
-        "texcoord_vb": "6406c03e",
-        "ib": "84668635",
+        "draw_vb": "1ca6cf3d",
+        "position_vb": "967c0759",
+        "blend_vb": "a6d492d3",
+        "texcoord_vb": "4f796933",
+        "ib": "36a13222",
         "object_indexes": [
             0
         ],
@@ -18,21 +18,15 @@
                 [
                     "Diffuse",
                     ".dds",
-                    "9bd1710d"
+                    "2ec320aa"
                 ],
                 [
                     "LightMap",
                     ".dds",
-                    "8206809f"
-                ],
-                [
-                    "ShadowRamp",
-                    ".jpg",
-                    "58d2635b"
+                    "7fd9c40d"
                 ]
             ]
-        ],
-        "first_vs": "4548f0ce0f18b782"
+        ]
     },
     {
         "component_name": "Head",
@@ -55,12 +49,11 @@
                 [
                     "Diffuse",
                     ".dds",
-                    "0fb34dc9"
+                    "a53efe63"
                 ]
             ],
             []
-        ],
-        "first_vs": "d9b883abe316242c"
+        ]
     },
     {
         "component_name": "Body",
@@ -93,40 +86,29 @@
                 [
                     "Diffuse",
                     ".dds",
-                    "fb0f55f4"
+                    "e290fff3"
                 ],
                 [
                     "LightMap",
                     ".dds",
-                    "088765db"
-                ],
-                [
-                    "ShadowRamp",
-                    ".jpg",
-                    "078177f1"
+                    "687428e3"
                 ]
             ],
             [
                 [
                     "Diffuse",
                     ".dds",
-                    "3cc949c8"
+                    "8f61660a"
                 ],
                 [
                     "LightMap",
                     ".dds",
-                    "701d9092"
-                ],
-                [
-                    "ShadowRamp",
-                    ".jpg",
-                    "078177f1"
+                    "8893d921"
                 ]
             ],
             [],
             [],
             []
-        ],
-        "first_vs": "2caeb828e4f7aa8a"
+        ]
     }
 ]

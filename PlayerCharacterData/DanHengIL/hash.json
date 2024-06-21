@@ -4,7 +4,7 @@
         "root_vs": "e8425f64cfb887cd",
         "draw_vb": "2f69b239",
         "position_vb": "09d4edc5",
-        "blend_vb": "94158e74",
+        "blend_vb": "97be0a41",
         "texcoord_vb": "560cb389",
         "ib": "8b476756",
         "object_indexes": [
@@ -18,28 +18,22 @@
                 [
                     "Diffuse",
                     ".dds",
-                    "5f6f803e"
+                    "779e60a8"
                 ],
                 [
                     "LightMap",
                     ".dds",
-                    "ec8baa47"
-                ],
-                [
-                    "ShadowRamp",
-                    ".jpg",
-                    "078177f1"
+                    "41840f8a"
                 ]
             ]
-        ],
-        "first_vs": "4548f0ce0f18b782"
+        ]
     },
     {
         "component_name": "Head",
         "root_vs": "e8425f64cfb887cd",
         "draw_vb": "e556ac29",
         "position_vb": "c7751dba",
-        "blend_vb": "81a1d223",
+        "blend_vb": "4616d1e7",
         "texcoord_vb": "3748c306",
         "ib": "01d6bb55",
         "object_indexes": [
@@ -55,12 +49,11 @@
                 [
                     "Diffuse",
                     ".dds",
-                    "d64ab9dc"
+                    "f1b129e2"
                 ]
             ],
             []
-        ],
-        "first_vs": "d9b883abe316242c"
+        ]
     },
     {
         "component_name": "Body",
@@ -86,21 +79,15 @@
                 [
                     "Diffuse",
                     ".dds",
-                    "85486705"
+                    "9300840e"
                 ],
                 [
                     "LightMap",
                     ".dds",
-                    "ef65d29c"
-                ],
-                [
-                    "ShadowRamp",
-                    ".jpg",
-                    "078177f1"
+                    "b0660300"
                 ]
             ],
             []
-        ],
-        "first_vs": "2caeb828e4f7aa8a"
+        ]
     }
 ]

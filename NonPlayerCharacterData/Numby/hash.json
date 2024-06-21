@@ -1,0 +1,49 @@
+[
+    {
+        "component_name": "",
+        "root_vs": "e8425f64cfb887cd",
+        "draw_vb": "d9b4999a",
+        "position_vb": "9afaa7d9",
+        "blend_vb": "8c0cfabb",
+        "texcoord_vb": "e40f5920",
+        "ib": "b006d721",
+        "object_indexes": [
+            0,
+            12150
+        ],
+        "object_classifications": [
+            "A",
+            "B"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "DiffuseChScreen",
+                    ".dds",
+                    "e22b4c5e"
+                ],
+                [
+                    "DiffuseOverworldCombat",
+                    ".dds",
+                    "6cad0819"
+                ],
+                [
+                    "LightMapChScreen",
+                    ".dds",
+                    "07471bf5"
+                ],
+                [
+                    "LightMapOverworld",
+                    ".dds",
+                    "02644fcc"
+                ],
+                [
+                    "LightMapCombat",
+                    ".dds",
+                    "cd7acd1a"
+                ]
+            ],
+            []
+        ]
+    }
+]

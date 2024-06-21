@@ -18,21 +18,15 @@
                 [
                     "Diffuse",
                     ".dds",
-                    "59d7157b"
+                    "21e4c3cd"
                 ],
                 [
                     "LightMap",
                     ".dds",
-                    "86144243"
-                ],
-                [
-                    "ShadowRamp",
-                    ".jpg",
-                    "58d2635b"
+                    "79709858"
                 ]
             ]
-        ],
-        "first_vs": "4548f0ce0f18b782"
+        ]
     },
     {
         "component_name": "Head",
@@ -55,12 +49,11 @@
                 [
                     "Diffuse",
                     ".dds",
-                    "d00782c7"
+                    "afd4f008"
                 ]
             ],
             []
-        ],
-        "first_vs": "d9b883abe316242c"
+        ]
     },
     {
         "component_name": "Body",
@@ -92,43 +85,32 @@
                 [
                     "Diffuse",
                     ".dds",
-                    "8d159053"
+                    "1bc2fa5f"
                 ],
                 [
                     "LightMap",
                     ".dds",
-                    "7e8fa12b"
-                ],
-                [
-                    "ShadowRamp",
-                    ".jpg",
-                    "078177f1"
+                    "a05979e4"
                 ],
                 [
                     "StockingMap",
                     ".dds",
-                    "6efdb42c"
+                    "c7358fb2"
                 ]
             ],
             [
                 [
                     "Diffuse",
                     ".dds",
-                    "269745d0"
+                    "5be64601"
                 ],
                 [
                     "LightMap",
                     ".dds",
-                    "725d36ab"
-                ],
-                [
-                    "ShadowRamp",
-                    ".jpg",
-                    "078177f1"
+                    "c7bd5694"
                 ]
             ],
             []
-        ],
-        "first_vs": "2caeb828e4f7aa8a"
+        ]
     }
 ]
