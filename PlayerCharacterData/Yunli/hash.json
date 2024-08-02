@@ -1,0 +1,90 @@
+[
+    {
+        "component_name": "Hair",
+        "root_vs": "e8425f64cfb887cd",
+        "draw_vb": "092a10a3",
+        "position_vb": "6c60e749",
+        "blend_vb": "22a4c645",
+        "texcoord_vb": "b2d80a36",
+        "ib": "9873bdf0",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "fc4ee04c"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "0d1bfe96"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "Head",
+        "root_vs": "e8425f64cfb887cd",
+        "draw_vb": "625e8b72",
+        "position_vb": "44a7e483",
+        "blend_vb": "be092ccf",
+        "texcoord_vb": "73530042",
+        "ib": "74618f38",
+        "object_indexes": [
+            0,
+            12540
+        ],
+        "object_classifications": [
+            "A",
+            "B"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "a84f4af4"
+                ]
+            ],
+            []
+        ]
+    },
+    {
+        "component_name": "Body",
+        "root_vs": "e8425f64cfb887cd",
+        "draw_vb": "1c4648ec",
+        "position_vb": "afb1f48c",
+        "blend_vb": "2ab1d1bd",
+        "texcoord_vb": "3bd585f3",
+        "ib": "e021a401",
+        "object_indexes": [
+            0,
+            66528
+        ],
+        "object_classifications": [
+            "A",
+            "B"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "dbb4f113"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "08c5a87c"
+                ]
+            ],
+            []
+        ]
+    }
+]

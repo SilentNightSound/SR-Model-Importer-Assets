@@ -1,0 +1,90 @@
+[
+    {
+        "component_name": "Hair",
+        "root_vs": "e8425f64cfb887cd",
+        "draw_vb": "99361f97",
+        "position_vb": "411425d0",
+        "blend_vb": "6f468e3f",
+        "texcoord_vb": "82c631fd",
+        "ib": "4fbcd570",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "481ac084"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "19329fa0"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "Head",
+        "root_vs": "e8425f64cfb887cd",
+        "draw_vb": "49a6a173",
+        "position_vb": "b23869e0",
+        "blend_vb": "694f577b",
+        "texcoord_vb": "b3665f0b",
+        "ib": "2e23a897",
+        "object_indexes": [
+            0,
+            13200
+        ],
+        "object_classifications": [
+            "A",
+            "B"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "dbbb9b12"
+                ]
+            ],
+            []
+        ]
+    },
+    {
+        "component_name": "Body",
+        "root_vs": "e8425f64cfb887cd",
+        "draw_vb": "5764cafb",
+        "position_vb": "e493769b",
+        "blend_vb": "712bac55",
+        "texcoord_vb": "fee2763a",
+        "ib": "6b5ed537",
+        "object_indexes": [
+            0,
+            45966
+        ],
+        "object_classifications": [
+            "A",
+            "B"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "495940e1"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "e5bd1087"
+                ]
+            ],
+            []
+        ]
+    }
+]

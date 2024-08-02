@@ -1,0 +1,90 @@
+[
+    {
+        "component_name": "Hair",
+        "root_vs": "e8425f64cfb887cd",
+        "draw_vb": "1b91cb26",
+        "position_vb": "25f76a06",
+        "blend_vb": "3b3ba200",
+        "texcoord_vb": "7b12df8e",
+        "ib": "9dc5957a",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "fecf3188"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "99ae67eb"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "Head",
+        "root_vs": "e8425f64cfb887cd",
+        "draw_vb": "cfe5e63e",
+        "position_vb": "edc4d39e",
+        "blend_vb": "2a92a60d",
+        "texcoord_vb": "190f127f",
+        "ib": "d115a951",
+        "object_indexes": [
+            0,
+            10410
+        ],
+        "object_classifications": [
+            "A",
+            "B"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "f79dc819"
+                ]
+            ],
+            []
+        ]
+    },
+    {
+        "component_name": "Body",
+        "root_vs": "e8425f64cfb887cd",
+        "draw_vb": "a1293b29",
+        "position_vb": "fa222ecb",
+        "blend_vb": "2d447b02",
+        "texcoord_vb": "feb6dcbb",
+        "ib": "724f74c4",
+        "object_indexes": [
+            0,
+            20388
+        ],
+        "object_classifications": [
+            "A",
+            "B"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "0fd277eb"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "2f93ac5d"
+                ]
+            ],
+            []
+        ]
+    }
+]
