@@ -115,11 +115,11 @@
     {
         "component_name": "Body",
         "root_vs": "e8425f64cfb887cd",
-        "draw_vb": "92bc6d3a",
-        "position_vb": "214bd15a",
-        "blend_vb": "93bd0e91",
-        "texcoord_vb": "17e76a6a",
-        "ib": "36536e1b",
+        "draw_vb": "f6023c2b",
+        "position_vb": "45f5804b",
+        "blend_vb": "7212e8c5",
+        "texcoord_vb": "da5b680e",
+        "ib": "6f8c993d",
         "object_indexes": [
             0,
             62376
