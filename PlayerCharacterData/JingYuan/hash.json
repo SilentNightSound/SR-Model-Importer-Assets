@@ -58,26 +58,22 @@
     {
         "component_name": "Body",
         "root_vs": "e8425f64cfb887cd",
-        "draw_vb": "baaa1347",
-        "position_vb": "095daf27",
-        "blend_vb": "b2bf1378",
-        "texcoord_vb": "ebde517e",
-        "ib": "b2501828",
+        "draw_vb": "0b529127",
+        "position_vb": "b8a52d47",
+        "blend_vb": "cc58b451",
+        "texcoord_vb": "9f387461",
+        "ib": "b1191b83",
         "object_indexes": [
             0,
-            11589,
-            17772,
-            53565
+            11505,
+            17778,
+            53571
         ],
         "object_classifications": [
             "A",
             "B",
             "C",
             "D"
-        ],
-        "comments": [
-            "Body parts A and B use the same textures",
-            "Body parts C and D use the same textures"
         ],
         "texture_hashes": [
             [
