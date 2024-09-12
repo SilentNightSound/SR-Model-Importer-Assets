@@ -1,0 +1,52 @@
+[
+    {
+        "component_name": "Body",
+        "root_vs": "e8425f64cfb887cd",
+        "draw_vb": "d8ab2873",
+        "position_vb": "1e3c634b",
+        "blend_vb": "ecaf8218",
+        "texcoord_vb": "f034ec52",
+        "ib": "3dedc86f",
+        "object_indexes": [
+            0,
+            1077
+        ],
+        "object_classifications": [
+            "A",
+            "B"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "90a4b846"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "3f997603"
+                ]
+            ],
+            []
+        ]
+    },
+    {
+        "component_name": "Skirt",
+        "root_vs": "e8425f64cfb887cd",
+        "draw_vb": "3ec1c747",
+        "position_vb": "d72347a1",
+        "blend_vb": "007fe09b",
+        "texcoord_vb": "4bbb929a",
+        "ib": "65bc0762",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            []
+        ]
+    }
+]
