@@ -1,8 +1,0 @@
-byte offset: 0
-first index: 6228
-index count: 6
-topology: trianglelist
-format: DXGI_FORMAT_R16_UINT
-
-0 1 2
-0 2 3
