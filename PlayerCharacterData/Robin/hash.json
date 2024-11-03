@@ -59,9 +59,9 @@
         "component_name": "Body",
         "root_vs": "e8425f64cfb887cd",
         "draw_vb": "5cd081cc",
-        "position_vb": "ef273dac",
+        "position_vb": "22e9e92a",
         "blend_vb": "94a0e452",
-        "texcoord_vb": "43c5c007",
+        "texcoord_vb": "a65193dc",
         "ib": "2f312f11",
         "object_indexes": [
             0,
@@ -94,7 +94,7 @@
                     ".dds",
                     "e5ed0f89"
                 ]
+            ]
         ]
-    ]
     }
 ]

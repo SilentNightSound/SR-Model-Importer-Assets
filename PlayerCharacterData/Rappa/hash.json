@@ -1,0 +1,114 @@
+[
+    {
+        "component_name": "Hair",
+        "root_vs": "e8425f64cfb887cd",
+        "draw_vb": "20eae8c1",
+        "position_vb": "d5d249db",
+        "blend_vb": "16da2868",
+        "texcoord_vb": "968ef91a",
+        "ib": "478e18fc",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "36063126"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "967765af"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "Head",
+        "root_vs": "e8425f64cfb887cd",
+        "draw_vb": "4004b137",
+        "position_vb": "19526add",
+        "blend_vb": "be6516d2",
+        "texcoord_vb": "ee72b1ea",
+        "ib": "78349fd4",
+        "object_indexes": [
+            0,
+            11427
+        ],
+        "object_classifications": [
+            "A",
+            "B"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "86165ee4"
+                ]
+            ],
+            []
+        ]
+    },
+    {
+        "component_name": "Body",
+        "root_vs": "e8425f64cfb887cd",
+        "draw_vb": "f4af28d6",
+        "position_vb": "475894b6",
+        "blend_vb": "929ed561",
+        "texcoord_vb": "22b20c79",
+        "ib": "36731ec2",
+        "object_indexes": [
+            0,
+            67461
+        ],
+        "object_classifications": [
+            "A",
+            "B"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "54482a6f"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "3512bf02"
+                ]
+            ],
+            []
+        ]
+    },
+    {
+        "component_name": "CapeSFX",
+        "root_vs": "e8425f64cfb887cd",
+        "draw_vb": "48b83ee7",
+        "position_vb": "d58ccd84",
+        "blend_vb": "3b1b2a35",
+        "texcoord_vb": "7a2e18ad",
+        "ib": "679de288",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "a851737e"
+                ]
+            ]
+        ]
+    }
+]
