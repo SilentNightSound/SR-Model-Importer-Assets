@@ -1,10 +1,10 @@
 [
     {
         "component_name": "Hair",
-        "root_vs": "e8425f64cfb887cd",
-        "draw_vb": "ac883ae6",
-        "position_vb": "78c72ec8",
-        "blend_vb": "cc1a18f7",
+        "root_vs": "",
+        "draw_vb": "a31b0feb",
+        "position_vb": "6172337a",
+        "blend_vb": "23eb66a3",
         "texcoord_vb": "05b75400",
         "ib": "5fab0ace",
         "object_indexes": [
@@ -30,10 +30,10 @@
     },
     {
         "component_name": "Head",
-        "root_vs": "e8425f64cfb887cd",
-        "draw_vb": "0c349519",
-        "position_vb": "13e52094",
-        "blend_vb": "e0caccfa",
+        "root_vs": "",
+        "draw_vb": "03a7a014",
+        "position_vb": "0a503d26",
+        "blend_vb": "0f3bb2ae",
         "texcoord_vb": "831d6978",
         "ib": "2dc8bb9d",
         "object_indexes": [
@@ -57,10 +57,10 @@
     },
     {
         "component_name": "Body",
-        "root_vs": "e8425f64cfb887cd",
-        "draw_vb": "9dc7d1aa",
-        "position_vb": "2e306dca",
-        "blend_vb": "3f920a7c",
+        "root_vs": "",
+        "draw_vb": "9254e4a7",
+        "position_vb": "8938505f",
+        "blend_vb": "d0637428",
         "texcoord_vb": "18af7e1c",
         "ib": "7d57f432",
         "object_indexes": [
@@ -70,9 +70,6 @@
         "object_classifications": [
             "A",
             "B"
-        ],
-        "comments": [
-            "Body parts A and B use the same textures"
         ],
         "texture_hashes": [
             [
