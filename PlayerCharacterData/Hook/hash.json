@@ -1,39 +1,42 @@
 [
     {
         "component_name": "Hair",
-        "root_vs": "e8425f64cfb887cd",
-        "draw_vb": "53d0ba6a",
-        "position_vb": "2c0285e5",
-        "blend_vb": "516052b3",
-        "texcoord_vb": "f67df2a1",
-        "ib": "51a1f5de",
+        "root_vs": "",
+        "draw_vb": "bf053fd2",
+        "position_vb": "84dd6df9",
+        "blend_vb": "20825705",
+        "texcoord_vb": "59ccb47b",
+        "ib": "0c614d18",
         "object_indexes": [
-            0
+            0,
+            42189
         ],
         "object_classifications": [
-            "A"
+            "A",
+            "B"
         ],
         "texture_hashes": [
             [
                 [
                     "Diffuse",
                     ".dds",
-                    "f1ca01f3"
+                    "8ab99329"
                 ],
                 [
                     "LightMap",
                     ".dds",
-                    "db6ff34c"
+                    "4a45ac95"
                 ]
-            ]
+            ],
+            []
         ]
     },
     {
         "component_name": "Head",
-        "root_vs": "e8425f64cfb887cd",
-        "draw_vb": "e0aa46af",
-        "position_vb": "7d70c461",
-        "blend_vb": "0a410eec",
+        "root_vs": "",
+        "draw_vb": "ef3973a2",
+        "position_vb": "64c5d9d3",
+        "blend_vb": "e5b070b8",
         "texcoord_vb": "8d0292d1",
         "ib": "47006028",
         "object_indexes": [
@@ -57,10 +60,10 @@
     },
     {
         "component_name": "Body",
-        "root_vs": "e8425f64cfb887cd",
-        "draw_vb": "b0960adf",
-        "position_vb": "9d68704b",
-        "blend_vb": "cf732951",
+        "root_vs": "",
+        "draw_vb": "bf053fd2",
+        "position_vb": "84dd6df9",
+        "blend_vb": "20825705",
         "texcoord_vb": "59ccb47b",
         "ib": "0c614d18",
         "object_indexes": [
@@ -70,9 +73,6 @@
         "object_classifications": [
             "A",
             "B"
-        ],
-        "comments": [
-            "Body parts A and B use the same textures"
         ],
         "texture_hashes": [
             [
@@ -87,7 +87,18 @@
                     "4a45ac95"
                 ]
             ],
-            []
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "8ab99329"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "4a45ac95"
+                ]
+            ]
         ]
     }
 ]
