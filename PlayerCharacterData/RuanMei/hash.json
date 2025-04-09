@@ -1,10 +1,10 @@
 [
     {
         "component_name": "Hair",
-        "root_vs": "e8425f64cfb887cd",
-        "draw_vb": "99361f97",
-        "position_vb": "7ed84bde",
-        "blend_vb": "3b0cb896",
+        "root_vs": "",
+        "draw_vb": "96a52a9a",
+        "position_vb": "676d566c",
+        "blend_vb": "d4fdc6c2",
         "texcoord_vb": "e7362533",
         "ib": "5f7f8629",
         "object_indexes": [
@@ -30,10 +30,10 @@
     },
     {
         "component_name": "Head",
-        "root_vs": "e8425f64cfb887cd",
-        "draw_vb": "921846ab",
-        "position_vb": "5a981b24",
-        "blend_vb": "490a691b",
+        "root_vs": "",
+        "draw_vb": "9d8b73a6",
+        "position_vb": "432d0696",
+        "blend_vb": "a6fb174f",
         "texcoord_vb": "41ff990f",
         "ib": "d25009fb",
         "object_indexes": [
@@ -57,10 +57,10 @@
     },
     {
         "component_name": "Body",
-        "root_vs": "e8425f64cfb887cd",
-        "draw_vb": "18bd4eab",
-        "position_vb": "ab4af2cb",
-        "blend_vb": "2d3d915a",
+        "root_vs": "",
+        "draw_vb": "172e7ba6",
+        "position_vb": "67fa6522",
+        "blend_vb": "c2ccef0e",
         "texcoord_vb": "803d3eda",
         "ib": "93e2e265",
         "object_indexes": [
@@ -72,9 +72,6 @@
             "A",
             "B",
             "C"
-        ],
-        "comments": [
-            "Body parts A, B, and C use the same textures"
         ],
         "texture_hashes": [
             [
@@ -89,8 +86,30 @@
                     "93eec3ab"
                 ]
             ],
-            [],
-            []
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "5387a03e"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "93eec3ab"
+                ]
+            ],
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "5387a03e"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "93eec3ab"
+                ]
+            ]
         ]
     }
 ]

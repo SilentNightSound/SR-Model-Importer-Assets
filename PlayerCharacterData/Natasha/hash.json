@@ -1,10 +1,10 @@
 [
     {
         "component_name": "Hair",
-        "root_vs": "e8425f64cfb887cd",
-        "draw_vb": "4eb6efa7",
-        "position_vb": "29539b93",
-        "blend_vb": "38e692c7",
+        "root_vs": "",
+        "draw_vb": "4125daaa",
+        "position_vb": "30e68621",
+        "blend_vb": "d717ec93",
         "texcoord_vb": "a9728390",
         "ib": "b12335b8",
         "object_indexes": [
@@ -30,10 +30,10 @@
     },
     {
         "component_name": "Head",
-        "root_vs": "e8425f64cfb887cd",
-        "draw_vb": "ad6bae51",
-        "position_vb": "4a197424",
-        "blend_vb": "94322ac5",
+        "root_vs": "",
+        "draw_vb": "a2f89b5c",
+        "position_vb": "53ac6996",
+        "blend_vb": "7bc35491",
         "texcoord_vb": "29889ad3",
         "ib": "e992b074",
         "object_indexes": [
@@ -57,10 +57,10 @@
     },
     {
         "component_name": "Body",
-        "root_vs": "e8425f64cfb887cd",
-        "draw_vb": "be164341",
-        "position_vb": "0de1ff21",
-        "blend_vb": "23c6f5ac",
+        "root_vs": "",
+        "draw_vb": "b185764c",
+        "position_vb": "50edbe41",
+        "blend_vb": "cc378bf8",
         "texcoord_vb": "f1668e08",
         "ib": "68dd15e8",
         "object_indexes": [
@@ -75,12 +75,7 @@
             "C",
             "D"
         ],
-        "comments": [
-            "Body parts A and B use the same textures except for the StockingMap that's only used on B",
-            "Body parts C and D use the same textures except for the StockingMap that's only used on D"
-        ],
         "texture_hashes": [
-            [],
             [
                 [
                     "Diffuse",
@@ -91,14 +86,15 @@
                     "LightMap",
                     ".dds",
                     "fe813491"
-                ],
+                ]
+            ],
+            [
                 [
                     "StockingMap",
                     ".dds",
                     "defb30fc"
                 ]
             ],
-            [],
             [
                 [
                     "Diffuse",
@@ -109,7 +105,9 @@
                     "LightMap",
                     ".dds",
                     "919da513"
-                ],
+                ]
+            ],
+            [
                 [
                     "StockingMap",
                     ".dds",

@@ -1,10 +1,10 @@
 [
     {
         "component_name": "Hair",
-        "root_vs": "e8425f64cfb887cd",
-        "draw_vb": "111d47a6",
-        "position_vb": "9745dc50",
-        "blend_vb": "ee6055e3",
+        "root_vs": "",
+        "draw_vb": "1e8e72ab",
+        "position_vb": "8ef0c1e2",
+        "blend_vb": "01912bb7",
         "texcoord_vb": "439a6fd7",
         "ib": "22284dcd",
         "object_indexes": [
@@ -21,50 +21,19 @@
                     "6288c7ce"
                 ],
                 [
-                    "DiffuseUlt",
-                    ".dds",
-                    "fbc56473"
-                ],
-                [
                     "LightMap",
                     ".dds",
                     "020bb63f"
-                ],
-                [
-                    "LightMapUlt",
-                    ".dds",
-                    "f0b6c0a5"
                 ]
             ]
         ]
     },
     {
         "component_name": "HairBack",
-        "root_vs": "e8425f64cfb887cd",
-        "draw_vb": "6b23c635",
-        "position_vb": "567105bf",
-        "blend_vb": "e4645cb9",
-        "texcoord_vb": "559b1b5b",
-        "ib": "5e7ca268",
-        "object_indexes": [
-            0
-        ],
-        "object_classifications": [
-            "A"
-        ],
-        "comments": [
-            "Uses the same textures as Hair"
-        ],
-        "texture_hashes": [
-            []
-        ]
-    },
-    {
-        "component_name": "HairBackUlt",
-        "root_vs": "e8425f64cfb887cd",
-        "draw_vb": "71633585",
-        "position_vb": "2f712832",
-        "blend_vb": "11ccee20",
+        "root_vs": "",
+        "draw_vb": "7ef00088",
+        "position_vb": "36c43580",
+        "blend_vb": "fe3d9074",
         "texcoord_vb": "5be9d715",
         "ib": "eec7e4eb",
         "object_indexes": [
@@ -73,19 +42,27 @@
         "object_classifications": [
             "A"
         ],
-        "comments": [
-            "Uses the same textures as Hair"
-        ],
         "texture_hashes": [
-            []
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "fbc56473"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "f0b6c0a5"
+                ]
+            ]
         ]
     },
     {
         "component_name": "Head",
-        "root_vs": "e8425f64cfb887cd",
-        "draw_vb": "008800e7",
-        "position_vb": "896ef2ee",
-        "blend_vb": "f8b9e830",
+        "root_vs": "",
+        "draw_vb": "0f1b35ea",
+        "position_vb": "90dbef5c",
+        "blend_vb": "17489664",
         "texcoord_vb": "ba4331b2",
         "ib": "1319ca91",
         "object_indexes": [
@@ -102,11 +79,6 @@
                     "Diffuse",
                     ".dds",
                     "772da571"
-                ],
-                [
-                    "DiffuseUlt",
-                    ".dds",
-                    "19de522c"
                 ]
             ],
             []
@@ -114,10 +86,10 @@
     },
     {
         "component_name": "Body",
-        "root_vs": "e8425f64cfb887cd",
-        "draw_vb": "f6023c2b",
-        "position_vb": "45f5804b",
-        "blend_vb": "7212e8c5",
+        "root_vs": "",
+        "draw_vb": "f9910926",
+        "position_vb": "a52830c5",
+        "blend_vb": "9de39691",
         "texcoord_vb": "da5b680e",
         "ib": "6f8c993d",
         "object_indexes": [
@@ -128,9 +100,6 @@
             "A",
             "B"
         ],
-        "comments": [
-            "Body parts A and B use the same textures"
-        ],
         "texture_hashes": [
             [
                 [
@@ -139,22 +108,23 @@
                     "e88da4d0"
                 ],
                 [
-                    "DiffuseUlt",
+                    "LightMap",
                     ".dds",
-                    "5788d426"
+                    "1248799e"
+                ]
+            ],
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "e88da4d0"
                 ],
                 [
                     "LightMap",
                     ".dds",
                     "1248799e"
-                ],
-                [
-                    "LightMapUlt",
-                    ".dds",
-                    "ec57d1b8"
                 ]
-            ],
-            []
+            ]
         ]
     }
 ]

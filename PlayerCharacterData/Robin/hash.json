@@ -1,10 +1,10 @@
 [
     {
         "component_name": "Hair",
-        "root_vs": "e8425f64cfb887cd",
-        "draw_vb": "08627b10",
-        "position_vb": "c659dc72",
-        "blend_vb": "022d66fa",
+        "root_vs": "",
+        "draw_vb": "07f14e1d",
+        "position_vb": "dfecc1c0",
+        "blend_vb": "eddc18ae",
         "texcoord_vb": "bad29118",
         "ib": "097b33f2",
         "object_indexes": [
@@ -30,10 +30,10 @@
     },
     {
         "component_name": "Head",
-        "root_vs": "e8425f64cfb887cd",
-        "draw_vb": "3e3a2a8a",
-        "position_vb": "4eb1753f",
-        "blend_vb": "68e89a79",
+        "root_vs": "",
+        "draw_vb": "31a91f87",
+        "position_vb": "5704688d",
+        "blend_vb": "8719e42d",
         "texcoord_vb": "b4bc9414",
         "ib": "ac1267e4",
         "object_indexes": [
@@ -57,10 +57,10 @@
     },
     {
         "component_name": "Body",
-        "root_vs": "e8425f64cfb887cd",
-        "draw_vb": "5cd081cc",
-        "position_vb": "22e9e92a",
-        "blend_vb": "94a0e452",
+        "root_vs": "",
+        "draw_vb": "5343b4c1",
+        "position_vb": "3b5cf498",
+        "blend_vb": "7b519a06",
         "texcoord_vb": "a65193dc",
         "ib": "2f312f11",
         "object_indexes": [
@@ -70,10 +70,6 @@
         "object_classifications": [
             "A",
             "B"
-        ],
-        "comments": [
-            "Body parts A and B use the same textures",
-            "Starry Sky effect appears only on Body part B"
         ],
         "texture_hashes": [
             [
@@ -90,9 +86,14 @@
             ],
             [
                 [
-                    "StarrySkyMask",
+                    "Diffuse",
                     ".dds",
-                    "e5ed0f89"
+                    "de39f5f2"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "57ba7e2a"
                 ]
             ]
         ]

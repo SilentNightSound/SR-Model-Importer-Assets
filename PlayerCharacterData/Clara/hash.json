@@ -1,10 +1,10 @@
 [
     {
         "component_name": "Hair",
-        "root_vs": "e8425f64cfb887cd",
-        "draw_vb": "bcfb045b",
-        "position_vb": "486f6900",
-        "blend_vb": "d7130c52",
+        "root_vs": "",
+        "draw_vb": "b3683156",
+        "position_vb": "51da74b2",
+        "blend_vb": "38e27206",
         "texcoord_vb": "08caadac",
         "ib": "338bbeec",
         "object_indexes": [
@@ -30,10 +30,10 @@
     },
     {
         "component_name": "Head",
-        "root_vs": "e8425f64cfb887cd",
-        "draw_vb": "c1db0d65",
-        "position_vb": "d252d8ba",
-        "blend_vb": "01c3ad70",
+        "root_vs": "",
+        "draw_vb": "ce483868",
+        "position_vb": "cbe7c508",
+        "blend_vb": "ee32d324",
         "texcoord_vb": "7351b64a",
         "ib": "3d36602a",
         "object_indexes": [
@@ -57,10 +57,10 @@
     },
     {
         "component_name": "Body",
-        "root_vs": "e8425f64cfb887cd",
-        "draw_vb": "8c9c698e",
-        "position_vb": "3f6bd5ee",
-        "blend_vb": "89e485a2",
+        "root_vs": "",
+        "draw_vb": "830f5c83",
+        "position_vb": "f4ad6f23",
+        "blend_vb": "6615fbf6",
         "texcoord_vb": "a444344c",
         "ib": "4a58be98",
         "object_indexes": [
@@ -75,10 +75,6 @@
             "C",
             "D"
         ],
-        "comments": [
-            "Body parts A and B use the same textures",
-            "Body parts C and D use the same textures"
-        ],
         "texture_hashes": [
             [
                 [
@@ -92,7 +88,18 @@
                     "d73982e5"
                 ]
             ],
-            [],
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "198363bb"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "d73982e5"
+                ]
+            ],
             [
                 [
                     "Diffuse",
@@ -105,7 +112,18 @@
                     "6f4c03fe"
                 ]
             ],
-            []
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "a646bdde"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "6f4c03fe"
+                ]
+            ]
         ]
     }
 ]

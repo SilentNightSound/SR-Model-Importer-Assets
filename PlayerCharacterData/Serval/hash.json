@@ -1,10 +1,10 @@
 [
     {
         "component_name": "Hair",
-        "root_vs": "e8425f64cfb887cd",
-        "draw_vb": "403c9fe7",
-        "position_vb": "591d16e1",
-        "blend_vb": "5bca39c4",
+        "root_vs": "",
+        "draw_vb": "4fafaaea",
+        "position_vb": "40a80b53",
+        "blend_vb": "b43b4790",
         "texcoord_vb": "9c78f999",
         "ib": "3c2acced",
         "object_indexes": [
@@ -30,10 +30,10 @@
     },
     {
         "component_name": "Head",
-        "root_vs": "e8425f64cfb887cd",
-        "draw_vb": "d28049f2",
-        "position_vb": "2de93d4b",
-        "blend_vb": "876b2a8c",
+        "root_vs": "",
+        "draw_vb": "dd137cff",
+        "position_vb": "345c20f9",
+        "blend_vb": "689a54d8",
         "texcoord_vb": "10c64376",
         "ib": "a42d6234",
         "object_indexes": [
@@ -57,10 +57,10 @@
     },
     {
         "component_name": "Body",
-        "root_vs": "e8425f64cfb887cd",
-        "draw_vb": "8bc0ab8d",
-        "position_vb": "383717ed",
-        "blend_vb": "ab709ef7",
+        "root_vs": "",
+        "draw_vb": "84539e80",
+        "position_vb": "026affd1",
+        "blend_vb": "4481e0a3",
         "texcoord_vb": "86d77809",
         "ib": "f092876d",
         "object_indexes": [
@@ -75,12 +75,7 @@
             "C",
             "D"
         ],
-        "comments": [
-            "Body parts A and B use the same textures except for the StockingMap that's only used on B",
-            "Body parts C and D use the same textures"
-        ],
         "texture_hashes": [
-            [],
             [
                 [
                     "Diffuse",
@@ -91,11 +86,13 @@
                     "LightMap",
                     ".dds",
                     "a05979e4"
-                ],
+                ]
+            ],
+            [
                 [
                     "StockingMap",
                     ".dds",
-                    "c7358fb2"
+                    "aa526ee6"
                 ]
             ],
             [

@@ -1,10 +1,10 @@
 [
     {
         "component_name": "Hair",
-        "root_vs": "e8425f64cfb887cd",
-        "draw_vb": "2ffc74a7",
-        "position_vb": "5b9af3ba",
-        "blend_vb": "4e477254",
+        "root_vs": "",
+        "draw_vb": "206f41aa",
+        "position_vb": "422fee08",
+        "blend_vb": "a1b60c00",
         "texcoord_vb": "660a2d38",
         "ib": "10ee0ac5",
         "object_indexes": [
@@ -30,10 +30,10 @@
     },
     {
         "component_name": "Head",
-        "root_vs": "e8425f64cfb887cd",
-        "draw_vb": "b2bc717f",
-        "position_vb": "c2cce86e",
-        "blend_vb": "4873b590",
+        "root_vs": "",
+        "draw_vb": "bd2f4472",
+        "position_vb": "db79f5dc",
+        "blend_vb": "a782cbc4",
         "texcoord_vb": "ba665bec",
         "ib": "d569b4d9",
         "object_indexes": [
@@ -57,10 +57,10 @@
     },
     {
         "component_name": "Body",
-        "root_vs": "e8425f64cfb887cd",
-        "draw_vb": "c22dc904",
-        "position_vb": "71da7564",
-        "blend_vb": "91b9fb51",
+        "root_vs": "",
+        "draw_vb": "cdbefc09",
+        "position_vb": "9588097c",
+        "blend_vb": "7e488505",
         "texcoord_vb": "d51f3972",
         "ib": "68121fd3",
         "object_indexes": [
@@ -72,9 +72,6 @@
             "A",
             "B",
             "C"
-        ],
-        "comments": [
-            "Body parts A, B, and C use the same textures"
         ],
         "texture_hashes": [
             [
@@ -89,28 +86,30 @@
                     "f806d2e4"
                 ]
             ],
-            [],
-            []
-        ]
-    },
-    {
-        "component_name": "IdleMask",
-        "draw_vb": "d1bb0a3c",
-        "position_vb": "d1bb0a3c",
-        "blend_vb": "",
-        "texcoord_vb": "",
-        "ib": "736629ea",
-        "object_indexes": [
-            0
-        ],
-        "object_classifications": [
-            "A"
-        ],
-        "comments": [
-            "Uses same textures as Body parts A, B, and C"
-        ],
-        "texture_hashes": [
-            []
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "17999c91"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "f806d2e4"
+                ]
+            ],
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "17999c91"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "f806d2e4"
+                ]
+            ]
         ]
     }
 ]
