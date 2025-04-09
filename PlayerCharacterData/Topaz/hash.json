@@ -1,10 +1,10 @@
 [
     {
         "component_name": "Hair",
-        "root_vs": "e8425f64cfb887cd",
-        "draw_vb": "cc870789",
-        "position_vb": "a413be23",
-        "blend_vb": "cbd71321",
+        "root_vs": "",
+        "draw_vb": "c3143284",
+        "position_vb": "bda6a391",
+        "blend_vb": "24266d75",
         "texcoord_vb": "b131f866",
         "ib": "32ef4b75",
         "object_indexes": [
@@ -30,10 +30,10 @@
     },
     {
         "component_name": "Head",
-        "root_vs": "e8425f64cfb887cd",
-        "draw_vb": "7457372c",
-        "position_vb": "e0b28d05",
-        "blend_vb": "78012798",
+        "root_vs": "",
+        "draw_vb": "7bc40221",
+        "position_vb": "f90790b7",
+        "blend_vb": "97f059cc",
         "texcoord_vb": "8e86100d",
         "ib": "f866094a",
         "object_indexes": [
@@ -57,10 +57,10 @@
     },
     {
         "component_name": "Body",
-        "root_vs": "e8425f64cfb887cd",
-        "draw_vb": "9d5cd14d",
-        "position_vb": "2eab6d2d",
-        "blend_vb": "55ef95d4",
+        "root_vs": "",
+        "draw_vb": "92cfe440",
+        "position_vb": "68668027",
+        "blend_vb": "ba1eeb80",
         "texcoord_vb": "4be08333",
         "ib": "b52297bf",
         "object_indexes": [
@@ -88,7 +88,18 @@
                     "b8c954ef"
                 ]
             ],
-            [],
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "3dfd62b8"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "b8c954ef"
+                ]
+            ],
             [
                 [
                     "Diffuse",
@@ -101,7 +112,18 @@
                     "786f6565"
                 ]
             ],
-            []
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "13be2437"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "786f6565"
+                ]
+            ]
         ]
     }
 ]

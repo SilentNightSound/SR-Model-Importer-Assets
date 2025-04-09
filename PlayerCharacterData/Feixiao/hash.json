@@ -1,10 +1,10 @@
 [
     {
         "component_name": "Hair",
-        "root_vs": "e8425f64cfb887cd",
-        "draw_vb": "7a972d55",
-        "position_vb": "33418ff8",
-        "blend_vb": "b5994a59",
+        "root_vs": "",
+        "draw_vb": "75041858",
+        "position_vb": "2af4924a",
+        "blend_vb": "5a68340d",
         "texcoord_vb": "b083ed11",
         "ib": "657f6114",
         "object_indexes": [
@@ -30,10 +30,10 @@
     },
     {
         "component_name": "Head",
-        "root_vs": "e8425f64cfb887cd",
-        "draw_vb": "035b9700",
-        "position_vb": "fbd97f64",
-        "blend_vb": "3e6aa1cc",
+        "root_vs": "",
+        "draw_vb": "0cc8a20d",
+        "position_vb": "e26c62d6",
+        "blend_vb": "d19bdf98",
         "texcoord_vb": "5182cfc6",
         "ib": "52838ed7",
         "object_indexes": [
@@ -57,10 +57,10 @@
     },
     {
         "component_name": "Body",
-        "root_vs": "e8425f64cfb887cd",
-        "draw_vb": "ad0fbcdc",
-        "position_vb": "1ef800bc",
-        "blend_vb": "704530bd",
+        "root_vs": "",
+        "draw_vb": "a29c89d1",
+        "position_vb": "9c653391",
+        "blend_vb": "9fb44ee9",
         "texcoord_vb": "83d2adc9",
         "ib": "4590c116",
         "object_indexes": [
@@ -88,7 +88,18 @@
                     "71bb9c45"
                 ]
             ],
-            [],
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "8dde0667"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "71bb9c45"
+                ]
+            ],
             [
                 [
                     "Diffuse",
@@ -101,29 +112,16 @@
                     "6e77937e"
                 ]
             ],
-            []
-        ]
-    },
-    {
-        "component_name": "Mark",
-        "root_vs": "e8425f64cfb887cd",
-        "draw_vb": "b78e9538",
-        "position_vb": "39641aa2",
-        "blend_vb": "e4943d34",
-        "texcoord_vb": "6dd254ef",
-        "ib": "e60742bd",
-        "object_indexes": [
-            0
-        ],
-        "object_classifications": [
-            "A"
-        ],
-        "texture_hashes": [
             [
                 [
                     "Diffuse",
                     ".dds",
-                    "70bf4491"
+                    "e728aa85"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "6e77937e"
                 ]
             ]
         ]
