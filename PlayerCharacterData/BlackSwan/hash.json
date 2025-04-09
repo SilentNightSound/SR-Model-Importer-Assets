@@ -1,10 +1,10 @@
 [
     {
         "component_name": "Hair",
-        "root_vs": "e8425f64cfb887cd",
-        "draw_vb": "dda5d076",
-        "position_vb": "dc153ce0",
-        "blend_vb": "0d8672ce",
+        "root_vs": "",
+        "draw_vb": "d236e57b",
+        "position_vb": "c5a02152",
+        "blend_vb": "e2770c9a",
         "texcoord_vb": "b0d09ffe",
         "ib": "79cc4363",
         "object_indexes": [
@@ -30,10 +30,10 @@
     },
     {
         "component_name": "Head",
-        "root_vs": "e8425f64cfb887cd",
-        "draw_vb": "755e1d94",
-        "position_vb": "33edc9b2",
-        "blend_vb": "ede8abb0",
+        "root_vs": "",
+        "draw_vb": "7acd2899",
+        "position_vb": "2a58d400",
+        "blend_vb": "0219d5e4",
         "texcoord_vb": "fe5e60fd",
         "ib": "527318a2",
         "object_indexes": [
@@ -57,10 +57,10 @@
     },
     {
         "component_name": "Body",
-        "root_vs": "e8425f64cfb887cd",
-        "draw_vb": "aa893f33",
-        "position_vb": "197e8353",
-        "blend_vb": "b4ec029d",
+        "root_vs": "",
+        "draw_vb": "a51a0a3e",
+        "position_vb": "094e2119",
+        "blend_vb": "5b1d7cc9",
         "texcoord_vb": "562fbdb4",
         "ib": "b194833e",
         "object_indexes": [
@@ -70,9 +70,6 @@
         "object_classifications": [
             "A",
             "B"
-        ],
-        "comments": [
-            "Body parts A and B use the same textures"
         ],
         "texture_hashes": [
             [
@@ -89,10 +86,26 @@
                 [
                     "StockingMap",
                     ".dds",
-                    "ec1ba003"
+                    "d037ddd6"
                 ]
             ],
-            []
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "a5727e55"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "7884691d"
+                ],
+                [
+                    "StockingMap",
+                    ".dds",
+                    "d037ddd6"
+                ]
+            ]
         ]
     }
 ]

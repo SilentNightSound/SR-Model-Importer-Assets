@@ -1,10 +1,10 @@
 [
     {
         "component_name": "Hair",
-        "root_vs": "e8425f64cfb887cd",
-        "draw_vb": "31447b51",
-        "position_vb": "3095786c",
-        "blend_vb": "d4ab62d7",
+        "root_vs": "",
+        "draw_vb": "3ed74e5c",
+        "position_vb": "292065de",
+        "blend_vb": "3b5a1c83",
         "texcoord_vb": "5974af55",
         "ib": "96243edc",
         "object_indexes": [
@@ -30,10 +30,10 @@
     },
     {
         "component_name": "Head",
-        "root_vs": "e8425f64cfb887cd",
-        "draw_vb": "6656406f",
-        "position_vb": "3b4bdc1f",
-        "blend_vb": "f3f0c980",
+        "root_vs": "",
+        "draw_vb": "69c57562",
+        "position_vb": "22fec1ad",
+        "blend_vb": "1c01b7d4",
         "texcoord_vb": "53b95bb4",
         "ib": "20994839",
         "object_indexes": [
@@ -57,10 +57,10 @@
     },
     {
         "component_name": "Body",
-        "root_vs": "e8425f64cfb887cd",
-        "draw_vb": "8d3b5179",
-        "position_vb": "3ecced19",
-        "blend_vb": "b9371b3c",
+        "root_vs": "",
+        "draw_vb": "82a86474",
+        "position_vb": "2087b78d",
+        "blend_vb": "56c66568",
         "texcoord_vb": "e0274b6f",
         "ib": "15761df0",
         "object_indexes": [

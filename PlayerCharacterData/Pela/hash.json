@@ -1,10 +1,10 @@
 [
     {
         "component_name": "Hair",
-        "root_vs": "e8425f64cfb887cd",
-        "draw_vb": "18d9ad82",
-        "position_vb": "fd24333c",
-        "blend_vb": "4b1780bb",
+        "root_vs": "",
+        "draw_vb": "174a988f",
+        "position_vb": "e4912e8e",
+        "blend_vb": "a4e6feef",
         "texcoord_vb": "b7b84af4",
         "ib": "16e76a8a",
         "object_indexes": [
@@ -30,10 +30,10 @@
     },
     {
         "component_name": "Head",
-        "root_vs": "e8425f64cfb887cd",
-        "draw_vb": "87f9b9c3",
-        "position_vb": "db053da4",
-        "blend_vb": "53070a34",
+        "root_vs": "",
+        "draw_vb": "886a8cce",
+        "position_vb": "c2b02016",
+        "blend_vb": "bcf67460",
         "texcoord_vb": "615aee40",
         "ib": "9af18b75",
         "object_indexes": [
@@ -57,10 +57,10 @@
     },
     {
         "component_name": "Body",
-        "root_vs": "e8425f64cfb887cd",
-        "draw_vb": "79a43d63",
-        "position_vb": "ca538103",
-        "blend_vb": "b889667f",
+        "root_vs": "",
+        "draw_vb": "7637086e",
+        "position_vb": "27b7176f",
+        "blend_vb": "5778182b",
         "texcoord_vb": "77a2f3bf",
         "ib": "98dbd548",
         "object_indexes": [
@@ -70,9 +70,6 @@
         "object_classifications": [
             "A",
             "B"
-        ],
-        "comments": [
-            "Body parts A and B use the same textures except for the StockingMap that's only used on A"
         ],
         "texture_hashes": [
             [
@@ -89,10 +86,21 @@
                 [
                     "StockingMap",
                     ".dds",
-                    "883e4c54"
+                    "3e8cd724"
                 ]
             ],
-            []
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "48fca7f8"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "21d34147"
+                ]
+            ]
         ]
     }
 ]
