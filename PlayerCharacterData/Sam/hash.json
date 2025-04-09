@@ -1,10 +1,10 @@
 [
     {
         "component_name": "Body",
-        "root_vs": "e8425f64cfb887cd",
-        "draw_vb": "3c383ed4",
-        "position_vb": "6799671e",
-        "blend_vb": "20f1a341",
+        "root_vs": "",
+        "draw_vb": "33ab0bd9",
+        "position_vb": "7e2c7aac",
+        "blend_vb": "cf00dd15",
         "texcoord_vb": "baa0c1d5",
         "ib": "3cedd48a",
         "object_indexes": [
@@ -21,11 +21,6 @@
                     "e1446be0"
                 ],
                 [
-                    "DiffuseUlt",
-                    ".dds",
-                    "602bb9eb"
-                ],
-                [
                     "LightMap",
                     ".dds",
                     "7b19d686"
@@ -34,71 +29,11 @@
         ]
     },
     {
-        "component_name": "ChestFlames",
-        "root_vs": "e8425f64cfb887cd",
-        "draw_vb": "c29bbaf2",
-        "position_vb": "830a8ffe",
-        "blend_vb": "1582e2e8",
-        "texcoord_vb": "a2e807c6",
-        "ib": "a61588e0",
-        "object_indexes": [
-            0
-        ],
-        "object_classifications": [
-            "A"
-        ],
-        "texture_hashes": [
-            []
-        ]
-    },
-    {
-        "component_name": "ShoulderFlames",
-        "root_vs": "e8425f64cfb887cd",
-        "draw_vb": "10c0ea8b",
-        "position_vb": "688b7ac3",
-        "blend_vb": "77c9ff95",
-        "texcoord_vb": "7a8d2592",
-        "ib": "dcfa1472",
-        "object_indexes": [
-            0
-        ],
-        "object_classifications": [
-            "A"
-        ],
-        "texture_hashes": [
-            []
-        ]
-    },
-    {
-        "component_name": "KneeFlames",
-        "root_vs": "e8425f64cfb887cd",
-        "draw_vb": "c69371ef",
-        "position_vb": "7beeaf08",
-        "blend_vb": "427f0f25",
-        "texcoord_vb": "8c64f4f0",
-        "ib": "22d3e35d",
-        "object_indexes": [
-            0
-        ],
-        "object_classifications": [
-            "A"
-        ],
-        "texture_hashes": [
-            [
-                [
-                    "Diffuse",
-                    ".dds",
-                    "c8616c41"
-                ]
-            ]
-        ]
-    },
-    {
-        "component_name": "Wings",
-        "root_vs": "e8425f64cfb887cd",
-        "draw_vb": "d631258c",
-        "position_vb": "ebaebdc2",
-        "blend_vb": "50ee777c",
+        "component_name": "ShoulderEffect",
+        "root_vs": "",
+        "draw_vb": "d9a21081",
+        "position_vb": "f21ba070",
+        "blend_vb": "bf1f0928",
         "texcoord_vb": "d20b2b02",
         "ib": "9f97733a",
         "object_indexes": [
@@ -112,27 +47,14 @@
                 [
                     "Diffuse",
                     ".dds",
-                    "99f6d180"
+                    "433f032d"
+                ],
+                [
+                    "StockingMap",
+                    ".dds",
+                    "7dfe4ca6"
                 ]
             ]
-        ]
-    },
-    {
-        "component_name": "PonyTail",
-        "root_vs": "e8425f64cfb887cd",
-        "draw_vb": "abb10920",
-        "position_vb": "da308045",
-        "blend_vb": "18c7b8d8",
-        "texcoord_vb": "b96d4a21",
-        "ib": "11f56319",
-        "object_indexes": [
-            0
-        ],
-        "object_classifications": [
-            "A"
-        ],
-        "texture_hashes": [
-            []
         ]
     }
 ]
