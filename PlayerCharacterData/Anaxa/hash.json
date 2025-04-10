@@ -1,0 +1,113 @@
+[
+    {
+        "component_name": "Hair",
+        "root_vs": "",
+        "draw_vb": "bdae3c65",
+        "position_vb": "468acfca",
+        "blend_vb": "1db60089",
+        "texcoord_vb": "f8c1574b",
+        "ib": "88914f28",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "43ad78a1"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "eba79f95"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "Head",
+        "root_vs": "",
+        "draw_vb": "be62cf9d",
+        "position_vb": "aa48fbc5",
+        "blend_vb": "69bc8d92",
+        "texcoord_vb": "43320b72",
+        "ib": "e0d51cde",
+        "object_indexes": [
+            0,
+            13617
+        ],
+        "object_classifications": [
+            "A",
+            "B"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "2d9b9193"
+                ]
+            ],
+            []
+        ]
+    },
+    {
+        "component_name": "Body",
+        "root_vs": "",
+        "draw_vb": "4de13263",
+        "position_vb": "c61a8bbe",
+        "blend_vb": "4d4f5629",
+        "texcoord_vb": "acf802dc",
+        "ib": "62a2c7ac",
+        "object_indexes": [
+            0,
+            41457
+        ],
+        "object_classifications": [
+            "A",
+            "B"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "5bcea1bd"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "5b17b8d5"
+                ],
+                [
+                    "StockingMap",
+                    ".dds",
+                    "2b751a72"
+                ]
+            ],
+            []
+        ]
+    },
+    {
+        "component_name": "Eyepatch",
+        "root_vs": "",
+        "draw_vb": "63df34d9",
+        "position_vb": "ab5a904e",
+        "blend_vb": "e5134739",
+        "texcoord_vb": "94410245",
+        "ib": "99a1a610",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            []
+        ]
+    }
+]
