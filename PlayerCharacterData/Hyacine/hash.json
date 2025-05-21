@@ -1,0 +1,105 @@
+[
+    {
+        "component_name": "Hair",
+        "root_vs": "",
+        "draw_vb": "c7ab6927",
+        "position_vb": "ae3b4d8a",
+        "blend_vb": "c1cdf8cf",
+        "texcoord_vb": "9549ab8f",
+        "ib": "cba92d02",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "b4c8a01d"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "86f2a646"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "Head",
+        "root_vs": "",
+        "draw_vb": "51e9543e",
+        "position_vb": "5417235e",
+        "blend_vb": "8c18617d",
+        "texcoord_vb": "9c01ae0a",
+        "ib": "9e06efbe",
+        "object_indexes": [
+            0,
+            12648
+        ],
+        "object_classifications": [
+            "A",
+            "B"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "bb37fe93"
+                ]
+            ],
+            []
+        ]
+    },
+    {
+        "component_name": "Body",
+        "root_vs": "",
+        "draw_vb": "42915465",
+        "position_vb": "bae12d5a",
+        "blend_vb": "4535e8b6",
+        "texcoord_vb": "ac46df25",
+        "ib": "847d5c37",
+        "object_indexes": [
+            0,
+            9804,
+            59928
+        ],
+        "object_classifications": [
+            "A",
+            "B",
+            "C"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "b8646726"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "ef29d267"
+                ]
+            ],
+            [
+                [
+                    "StockingMap",
+                    ".dds",
+                    "337156fa"
+                ]
+            ],
+            [
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "717d7465"
+                ]
+            ]
+        ]
+    }
+]
