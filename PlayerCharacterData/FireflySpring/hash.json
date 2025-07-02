@@ -1,0 +1,93 @@
+[
+    {
+        "component_name": "Body",
+        "root_vs": "",
+        "draw_vb": "8b38929a",
+        "position_vb": "ae892b45",
+        "blend_vb": "4488edda",
+        "texcoord_vb": "98849882",
+        "ib": "4cbce8e4",
+        "object_indexes": [
+            0,
+            25578,
+            47595
+        ],
+        "object_classifications": [
+            "A",
+            "B",
+            "C"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "1a71c513"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "c4786092"
+                ]
+            ],
+            [],
+            []
+        ]
+    },
+    {
+        "component_name": "Head",
+        "root_vs": "",
+        "draw_vb": "55efa8fe",
+        "position_vb": "66d74b3b",
+        "blend_vb": "cd7d1216",
+        "texcoord_vb": "3cb8b7aa",
+        "ib": "a1bd5a52",
+        "object_indexes": [
+            0,
+            12468
+        ],
+        "object_classifications": [
+            "A",
+            "B"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "c61c087d"
+                ]
+            ],
+            []
+        ]
+    },
+    {
+        "component_name": "Hair",
+        "root_vs": "",
+        "draw_vb": "186136d6",
+        "position_vb": "c95ed721",
+        "blend_vb": "5cd510fb",
+        "texcoord_vb": "440b95dd",
+        "ib": "a27cca81",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "1a331787"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "26ab2b3c"
+                ]
+            ]
+        ]
+    }
+]
