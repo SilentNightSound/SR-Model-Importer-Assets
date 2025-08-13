@@ -1,0 +1,98 @@
+[
+    {
+        "component_name": "Hair",
+        "root_vs": "",
+        "draw_vb": "73868d77",
+        "position_vb": "f650b68d",
+        "blend_vb": "bde00a07",
+        "texcoord_vb": "1768ca58",
+        "ib": "4446ed07",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "82a702f5"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "916502bc"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "Head",
+        "root_vs": "",
+        "draw_vb": "ce483868",
+        "position_vb": "19614064",
+        "blend_vb": "f48c9278",
+        "texcoord_vb": "34a74b04",
+        "ib": "c448080f",
+        "object_indexes": [
+            0,
+            11538
+        ],
+        "object_classifications": [
+            "A",
+            "B"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "723d0b95"
+                ]
+            ],
+            []
+        ]
+    },
+    {
+        "component_name": "Body",
+        "root_vs": "",
+        "draw_vb": "5980bf33",
+        "position_vb": "06f008d3",
+        "blend_vb": "f2032b9e",
+        "texcoord_vb": "c127b659",
+        "ib": "d10140d7",
+        "object_indexes": [
+            0,
+            44439,
+            74088
+        ],
+        "object_classifications": [
+            "A",
+            "B",
+            "C"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "ecf7b6f6"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "ccede1e1"
+                ],
+                [
+                    "StockingMap",
+                    ".dds",
+                    "df5c6966"
+                ]
+            ],
+            [],
+            []
+        ]
+    }
+]

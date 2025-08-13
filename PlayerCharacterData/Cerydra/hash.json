@@ -1,0 +1,93 @@
+[
+    {
+        "component_name": "Body",
+        "root_vs": "",
+        "draw_vb": "41069e66",
+        "position_vb": "9085b46f",
+        "blend_vb": "64daff70",
+        "texcoord_vb": "4156d301",
+        "ib": "9e396d3e",
+        "object_indexes": [
+            0,
+            5556,
+            53163
+        ],
+        "object_classifications": [
+            "A",
+            "B",
+            "C"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "7b6fe593"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "99f66442"
+                ]
+            ],
+            [],
+            []
+        ]
+    },
+    {
+        "component_name": "Hair",
+        "root_vs": "",
+        "draw_vb": "2c101749",
+        "position_vb": "cd5e837d",
+        "blend_vb": "ee295a40",
+        "texcoord_vb": "6a7327ef",
+        "ib": "7e110f93",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "9ead6208"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "9b613301"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "Head",
+        "root_vs": "",
+        "draw_vb": "44eac46a",
+        "position_vb": "b188dce6",
+        "blend_vb": "72653798",
+        "texcoord_vb": "d653371c",
+        "ib": "43fc0bd9",
+        "object_indexes": [
+            0,
+            13152
+        ],
+        "object_classifications": [
+            "A",
+            "B"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "7b3e8cd1"
+                ]
+            ],
+            []
+        ]
+    }
+]
