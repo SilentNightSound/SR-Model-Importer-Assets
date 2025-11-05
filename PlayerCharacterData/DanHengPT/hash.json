@@ -1,0 +1,95 @@
+[
+    {
+        "component_name": "Body",
+        "root_vs": "",
+        "draw_vb": "151553c4",
+        "position_vb": "77a6107a",
+        "blend_vb": "427225d7",
+        "texcoord_vb": "88e2a377",
+        "ib": "092ee962",
+        "object_indexes": [
+            0,
+            4164
+        ],
+        "object_classifications": [
+            "A",
+            "B"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "8b3a5437"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "a08428fb"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "e941a9ce"
+                ]
+            ],
+            []
+        ]
+    },
+    {
+        "component_name": "Hair",
+        "root_vs": "",
+        "draw_vb": "54912be4",
+        "position_vb": "2ae01463",
+        "blend_vb": "022327cb",
+        "texcoord_vb": "97ae39c9",
+        "ib": "33a72405",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "1370d89f"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "c11b727a"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "Head",
+        "root_vs": "",
+        "draw_vb": "eac59924",
+        "position_vb": "0561c8e1",
+        "blend_vb": "877dce22",
+        "texcoord_vb": "84fb96d2",
+        "ib": "807e1e36",
+        "object_indexes": [
+            0,
+            13245
+        ],
+        "object_classifications": [
+            "A",
+            "B"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "15418416"
+                ]
+            ],
+            []
+        ]
+    }
+]

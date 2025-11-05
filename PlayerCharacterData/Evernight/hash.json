@@ -1,0 +1,93 @@
+[
+    {
+        "component_name": "Body",
+        "root_vs": "",
+        "draw_vb": "86243a35",
+        "position_vb": "6694d37c",
+        "blend_vb": "079cf26d",
+        "texcoord_vb": "0f9c74fc",
+        "ib": "57c2dc56",
+        "object_indexes": [
+            0,
+            30594,
+            58158
+        ],
+        "object_classifications": [
+            "A",
+            "B",
+            "C"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "75a3a1e4"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "a44e80eb"
+                ]
+            ],
+            [],
+            []
+        ]
+    },
+    {
+        "component_name": "Head",
+        "root_vs": "",
+        "draw_vb": "b4289cef",
+        "position_vb": "e905a082",
+        "blend_vb": "da2c6c6e",
+        "texcoord_vb": "4a9b3964",
+        "ib": "d8c51e25",
+        "object_indexes": [
+            0,
+            13542
+        ],
+        "object_classifications": [
+            "A",
+            "B"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "5d5d1c29"
+                ]
+            ],
+            []
+        ]
+    },
+    {
+        "component_name": "Hair",
+        "root_vs": "",
+        "draw_vb": "bb226f33",
+        "position_vb": "073c9756",
+        "blend_vb": "52d51162",
+        "texcoord_vb": "55d08b8b",
+        "ib": "dab6111a",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "800f0a85"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "83a1622b"
+                ]
+            ]
+        ]
+    }
+]
