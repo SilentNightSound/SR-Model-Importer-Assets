@@ -60,12 +60,12 @@
         "root_vs": "",
         "draw_vb": "d52d7139",
         "position_vb": "f05d06de",
-        "blend_vb": "b55c8431",
-        "texcoord_vb": "f00b6ded",
-        "ib": "fba309df",
+        "blend_vb": "195d016d",
+        "texcoord_vb": "454c77a5",
+        "ib": "47695dd6",
         "object_indexes": [
             0,
-            32946
+            35661
         ],
         "object_classifications": [
             "A",
