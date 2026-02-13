@@ -58,15 +58,15 @@
     {
         "component_name": "Body",
         "root_vs": "",
-        "draw_vb": "f8209611",
-        "position_vb": "f80cc950",
-        "blend_vb": "344c4e99",
-        "texcoord_vb": "54d45960",
-        "ib": "ef776fb5",
+        "draw_vb": "05123eda",
+        "position_vb": "cb574def",
+        "blend_vb": "fededcc0",
+        "texcoord_vb": "1b9c8bcc",
+        "ib": "eff2fe0f",
         "object_indexes": [
             0,
-            6603,
-            45138
+            42213,
+            42534
         ],
         "object_classifications": [
             "A",
@@ -78,12 +78,12 @@
                 [
                     "Diffuse",
                     ".dds",
-                    "0e5f975c"
+                    "199ae50c"
                 ],
                 [
                     "LightMap",
                     ".dds",
-                    "f469bcba"
+                    "9cb794ae"
                 ]
             ],
             [],
