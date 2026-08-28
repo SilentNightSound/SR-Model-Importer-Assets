@@ -1,0 +1,111 @@
+[
+    {
+        "component_name": "Body",
+        "root_vs": "",
+        "draw_vb": "80cb2c3a",
+        "position_vb": "860f610c",
+        "blend_vb": "e22aff05",
+        "texcoord_vb": "20a7e9ab",
+        "ib": "36cd731a",
+        "object_indexes": [
+            0,
+            73950
+        ],
+        "object_index_counts": [
+            73950,
+            5031
+        ],
+        "object_classifications": [
+            "A",
+            "B"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "6bb69d98"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "f40fb612"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "ea7f8104"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "19d17634"
+                ]
+            ],
+            []
+        ]
+    },
+    {
+        "component_name": "Hair",
+        "root_vs": "",
+        "draw_vb": "cf3e04a2",
+        "position_vb": "20355c71",
+        "blend_vb": "11f86e50",
+        "texcoord_vb": "24ecfe6e",
+        "ib": "301c10bb",
+        "object_indexes": [
+            0
+        ],
+        "object_index_counts": [
+            9630
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "5cf80a1d"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "33ccf3ab"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "Head",
+        "root_vs": "",
+        "draw_vb": "5a83cfa1",
+        "position_vb": "89ee693a",
+        "blend_vb": "89aff9b3",
+        "texcoord_vb": "f6d12524",
+        "ib": "289f5c9f",
+        "object_indexes": [
+            0,
+            114
+        ],
+        "object_index_counts": [
+            114,
+            12717
+        ],
+        "object_classifications": [
+            "A",
+            "B"
+        ],
+        "texture_hashes": [
+            [],
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "bd23b305"
+                ]
+            ]
+        ]
+    }
+]

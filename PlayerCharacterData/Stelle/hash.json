@@ -58,32 +58,35 @@
     {
         "component_name": "Body",
         "root_vs": "",
-        "draw_vb": "d52d7139",
-        "position_vb": "f05d06de",
-        "blend_vb": "195d016d",
-        "texcoord_vb": "454c77a5",
-        "ib": "47695dd6",
+        "draw_vb": "f8209611",
+        "position_vb": "0d85a303",
+        "blend_vb": "89a23fcd",
+        "texcoord_vb": "43d9095b",
+        "ib": "5bdd3731",
         "object_indexes": [
             0,
-            35661
+            6717,
+            45138
         ],
         "object_classifications": [
             "A",
-            "B"
+            "B",
+            "C"
         ],
         "texture_hashes": [
             [
                 [
                     "Diffuse",
                     ".dds",
-                    "78d10c03"
+                    "0e5f975c"
                 ],
                 [
                     "LightMap",
                     ".dds",
-                    "69014337"
+                    "f469bcba"
                 ]
             ],
+            [],
             []
         ]
     }

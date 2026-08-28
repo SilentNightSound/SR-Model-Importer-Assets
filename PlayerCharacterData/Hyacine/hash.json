@@ -60,7 +60,7 @@
         "root_vs": "",
         "draw_vb": "42915465",
         "position_vb": "bae12d5a",
-        "blend_vb": "4535e8b6",
+        "blend_vb": "65df9e7c",
         "texcoord_vb": "ac46df25",
         "ib": "847d5c37",
         "object_indexes": [
@@ -93,13 +93,7 @@
                     "337156fa"
                 ]
             ],
-            [
-                [
-                    "MaterialMap",
-                    ".dds",
-                    "717d7465"
-                ]
-            ]
+            []
         ]
     }
 ]
