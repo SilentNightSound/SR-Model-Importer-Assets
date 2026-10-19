@@ -1,129 +1,120 @@
 [
-    {
-        "component_name": "Hair",
-        "root_vs": "",
-        "draw_vb": "c3143284",
-        "position_vb": "bda6a391",
-        "blend_vb": "24266d75",
-        "texcoord_vb": "b131f866",
-        "ib": "32ef4b75",
-        "object_indexes": [
-            0
-        ],
-        "object_classifications": [
-            "A"
-        ],
-        "texture_hashes": [
-            [
-                [
-                    "Diffuse",
-                    ".dds",
-                    "78059f75"
-                ],
-                [
-                    "LightMap",
-                    ".dds",
-                    "39fd4ba7"
-                ]
-            ]
-        ]
-    },
-    {
-        "component_name": "Head",
-        "root_vs": "",
-        "draw_vb": "7bc40221",
-        "position_vb": "f90790b7",
-        "blend_vb": "97f059cc",
-        "texcoord_vb": "8e86100d",
-        "ib": "f866094a",
-        "object_indexes": [
-            0,
-            12186
-        ],
-        "object_classifications": [
-            "A",
-            "B"
-        ],
-        "texture_hashes": [
-            [
-                [
-                    "Diffuse",
-                    ".dds",
-                    "fc521095"
-                ]
-            ],
-            []
-        ]
-    },
-    {
-        "component_name": "Body",
-        "root_vs": "",
-        "draw_vb": "92cfe440",
-        "position_vb": "68668027",
-        "blend_vb": "ba1eeb80",
-        "texcoord_vb": "4be08333",
-        "ib": "b52297bf",
-        "object_indexes": [
-            0,
-            18327,
-            21645,
-            45078
-        ],
-        "object_classifications": [
-            "A",
-            "B",
-            "C",
-            "D"
-        ],
-        "texture_hashes": [
-            [
-                [
-                    "Diffuse",
-                    ".dds",
-                    "3dfd62b8"
-                ],
-                [
-                    "LightMap",
-                    ".dds",
-                    "b8c954ef"
-                ]
-            ],
-            [
-                [
-                    "Diffuse",
-                    ".dds",
-                    "3dfd62b8"
-                ],
-                [
-                    "LightMap",
-                    ".dds",
-                    "b8c954ef"
-                ]
-            ],
-            [
-                [
-                    "Diffuse",
-                    ".dds",
-                    "13be2437"
-                ],
-                [
-                    "LightMap",
-                    ".dds",
-                    "786f6565"
-                ]
-            ],
-            [
-                [
-                    "Diffuse",
-                    ".dds",
-                    "13be2437"
-                ],
-                [
-                    "LightMap",
-                    ".dds",
-                    "786f6565"
-                ]
-            ]
-        ]
-    }
+	{
+		"component_name": "Hair",
+		"root_vs": "",
+		"draw_vb": "c3143284",
+		"position_vb": "bda6a391",
+		"blend_vb": "24266d75",
+		"texcoord_vb": "b131f866",
+		"ib": "32ef4b75",
+		"object_indexes": [
+			0
+		],
+		"object_index_counts": [
+			9150
+		],
+		"object_classifications": [
+			"A"
+		],
+		"texture_hashes": [
+			[
+				[
+					"Diffuse",
+					".dds",
+					"78059f75"
+				],
+				[
+					"LightMap",
+					".dds",
+					"39fd4ba7"
+				]
+			]
+		]
+	},
+	{
+		"component_name": "Head",
+		"root_vs": "",
+		"draw_vb": "7bc40221",
+		"position_vb": "f90790b7",
+		"blend_vb": "97f059cc",
+		"texcoord_vb": "8e86100d",
+		"ib": "f866094a",
+		"object_indexes": [
+			0,
+			12186
+		],
+		"object_index_counts": [
+			12186,
+			144
+		],
+		"object_classifications": [
+			"A",
+			"B"
+		],
+		"texture_hashes": [
+			[
+				[
+					"Diffuse",
+					".dds",
+					"fc521095"
+				]
+			],
+			[]
+		]
+	},
+	{
+		"component_name": "Body",
+		"root_vs": "",
+		"draw_vb": "92cfe440",
+		"position_vb": "68668027",
+		"blend_vb": "ba1eeb80",
+		"texcoord_vb": "4be08333",
+		"ib": "b52297bf",
+		"object_indexes": [
+			0,
+			18327,
+			21645,
+			45078
+		],
+		"object_index_counts": [
+			18327,
+			3318,
+			23433,
+			4536
+		],
+		"object_classifications": [
+			"A",
+			"B",
+			"C",
+			"D"
+		],
+		"texture_hashes": [
+			[
+				[
+					"Diffuse",
+					".dds",
+					"3dfd62b8"
+				],
+				[
+					"LightMap",
+					".dds",
+					"b8c954ef"
+				]
+			],
+			[],
+			[
+				[
+					"Diffuse",
+					".dds",
+					"13be2437"
+				],
+				[
+					"LightMap",
+					".dds",
+					"786f6565"
+				]
+			],
+			[]
+		]
+	}
 ]

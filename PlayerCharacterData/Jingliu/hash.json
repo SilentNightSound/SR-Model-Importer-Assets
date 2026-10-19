@@ -1,101 +1,122 @@
 [
-    {
-        "component_name": "Hair",
-        "root_vs": "",
-        "draw_vb": "1e6c1d97",
-        "position_vb": "2c47650c",
-        "blend_vb": "41fc8ade",
-        "texcoord_vb": "7333f114",
-        "ib": "afec4cc3",
-        "object_indexes": [
-            0
-        ],
-        "object_classifications": [
-            "A"
-        ],
-        "texture_hashes": [
-            [
-                [
-                    "Diffuse",
-                    ".dds",
-                    "f73f74cb"
-                ],
-                [
-                    "LightMap",
-                    ".dds",
-                    "70ae9680"
-                ]
-            ]
-        ]
-    },
-    {
-        "component_name": "Head",
-        "root_vs": "",
-        "draw_vb": "9aad247f",
-        "position_vb": "76235489",
-        "blend_vb": "0301cb1b",
-        "texcoord_vb": "05e20809",
-        "ib": "42f6df0c",
-        "object_indexes": [
-            0,
-            11244
-        ],
-        "object_classifications": [
-            "A",
-            "B"
-        ],
-        "texture_hashes": [
-            [
-                [
-                    "Diffuse",
-                    ".dds",
-                    "25dd2c46"
-                ]
-            ],
-            []
-        ]
-    },
-    {
-        "component_name": "Body",
-        "root_vs": "",
-        "draw_vb": "7c4d555b",
-        "position_vb": "09a74ad8",
-        "blend_vb": "24c37e04",
-        "texcoord_vb": "ba517fa0",
-        "ib": "e8d31b6a",
-        "object_indexes": [
-            0,
-            51096
-        ],
-        "object_classifications": [
-            "A",
-            "B"
-        ],
-        "texture_hashes": [
-            [
-                [
-                    "Diffuse",
-                    ".dds",
-                    "74370924"
-                ],
-                [
-                    "LightMap",
-                    ".dds",
-                    "d3a91ee8"
-                ]
-            ],
-            [
-                [
-                    "Diffuse",
-                    ".dds",
-                    "74370924"
-                ],
-                [
-                    "LightMap",
-                    ".dds",
-                    "d3a91ee8"
-                ]
-            ]
-        ]
-    }
+	{
+		"component_name": "Hair",
+		"root_vs": "",
+		"draw_vb": "1e6c1d97",
+		"position_vb": "2c47650c",
+		"blend_vb": "41fc8ade",
+		"texcoord_vb": "7333f114",
+		"ib": "afec4cc3",
+		"object_indexes": [
+			0
+		],
+		"object_index_counts": [
+			14307
+		],
+		"object_classifications": [
+			"A"
+		],
+		"texture_hashes": [
+			[
+				[
+					"Diffuse",
+					".dds",
+					"f73f74cb"
+				],
+				[
+					"LightMap",
+					".dds",
+					"70ae9680"
+				]
+			]
+		]
+	},
+	{
+		"component_name": "Blindfold",
+		"root_vs": "",
+		"draw_vb": "8a99bd27",
+		"position_vb": "081c11db",
+		"blend_vb": "3c4256b0",
+		"texcoord_vb": "dde2dea2",
+		"ib": "b910d0db",
+		"object_indexes": [
+			0
+		],
+		"object_index_counts": [
+			972
+		],
+		"object_classifications": [
+			"A"
+		],
+		"texture_hashes": [
+			[]
+		]
+	},
+	{
+		"component_name": "Head",
+		"root_vs": "",
+		"draw_vb": "9aad247f",
+		"position_vb": "76235489",
+		"blend_vb": "0301cb1b",
+		"texcoord_vb": "05e20809",
+		"ib": "42f6df0c",
+		"object_indexes": [
+			0,
+			11244
+		],
+		"object_index_counts": [
+			11244,
+			144
+		],
+		"object_classifications": [
+			"A",
+			"B"
+		],
+		"texture_hashes": [
+			[
+				[
+					"Diffuse",
+					".dds",
+					"25dd2c46"
+				]
+			],
+			[]
+		]
+	},
+	{
+		"component_name": "Body",
+		"root_vs": "",
+		"draw_vb": "7c4d555b",
+		"position_vb": "09a74ad8",
+		"blend_vb": "24c37e04",
+		"texcoord_vb": "ba517fa0",
+		"ib": "e8d31b6a",
+		"object_indexes": [
+			0,
+			51096
+		],
+		"object_index_counts": [
+			51096,
+			18798
+		],
+		"object_classifications": [
+			"A",
+			"B"
+		],
+		"texture_hashes": [
+			[
+				[
+					"Diffuse",
+					".dds",
+					"74370924"
+				],
+				[
+					"LightMap",
+					".dds",
+					"d3a91ee8"
+				]
+			],
+			[]
+		]
+	}
 ]

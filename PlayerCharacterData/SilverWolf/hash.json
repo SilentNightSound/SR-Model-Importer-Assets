@@ -1,115 +1,105 @@
 [
-    {
-        "component_name": "Hair",
-        "root_vs": "",
-        "draw_vb": "26a98961",
-        "position_vb": "4bb60956",
-        "blend_vb": "b98c76ea",
-        "texcoord_vb": "b9254611",
-        "ib": "91db78c2",
-        "object_indexes": [
-            0
-        ],
-        "object_classifications": [
-            "A"
-        ],
-        "texture_hashes": [
-            [
-                [
-                    "Diffuse",
-                    ".dds",
-                    "7c7065ae"
-                ],
-                [
-                    "LightMap",
-                    ".dds",
-                    "cf2cb5b7"
-                ]
-            ]
-        ]
-    },
-    {
-        "component_name": "Head",
-        "root_vs": "",
-        "draw_vb": "b3683156",
-        "position_vb": "28f40811",
-        "blend_vb": "c305160c",
-        "texcoord_vb": "e8250e7e",
-        "ib": "9df63c26",
-        "object_indexes": [
-            0,
-            12630
-        ],
-        "object_classifications": [
-            "A",
-            "B"
-        ],
-        "texture_hashes": [
-            [
-                [
-                    "Diffuse",
-                    ".dds",
-                    "a05a9801"
-                ]
-            ],
-            []
-        ]
-    },
-    {
-        "component_name": "Body",
-        "root_vs": "",
-        "draw_vb": "64213ba5",
-        "position_vb": "bd2443af",
-        "blend_vb": "f8611a03",
-        "texcoord_vb": "6c945131",
-        "ib": "891ecaae",
-        "object_indexes": [
-            0,
-            63429,
-            63543
-        ],
-        "object_classifications": [
-            "A",
-            "B",
-            "C"
-        ],
-        "texture_hashes": [
-            [
-                [
-                    "Diffuse",
-                    ".dds",
-                    "b2f97e36"
-                ],
-                [
-                    "LightMap",
-                    ".dds",
-                    "7b1eface"
-                ]
-            ],
-            [
-                [
-                    "Diffuse",
-                    ".dds",
-                    "b2f97e36"
-                ],
-                [
-                    "LightMap",
-                    ".dds",
-                    "7b1eface"
-                ]
-            ],
-            [
-                [
-                    "Diffuse",
-                    ".dds",
-                    "b2f97e36"
-                ],
-                [
-                    "LightMap",
-                    ".dds",
-                    "7b1eface"
-                ]
-            ]
-        ]
-    }
+	{
+		"component_name": "Hair",
+		"root_vs": "",
+		"draw_vb": "26a98961",
+		"position_vb": "4bb60956",
+		"blend_vb": "b98c76ea",
+		"texcoord_vb": "b9254611",
+		"ib": "91db78c2",
+		"object_indexes": [
+			0
+		],
+		"object_index_counts": [
+			16329
+		],
+		"object_classifications": [
+			"A"
+		],
+		"texture_hashes": [
+			[
+				[
+					"Diffuse",
+					".dds",
+					"7c7065ae"
+				],
+				[
+					"LightMap",
+					".dds",
+					"cf2cb5b7"
+				]
+			]
+		]
+	},
+	{
+		"component_name": "Head",
+		"root_vs": "",
+		"draw_vb": "b3683156",
+		"position_vb": "28f40811",
+		"blend_vb": "c305160c",
+		"texcoord_vb": "e8250e7e",
+		"ib": "9df63c26",
+		"object_indexes": [
+			0,
+			12630
+		],
+		"object_index_counts": [
+			12630,
+			168
+		],
+		"object_classifications": [
+			"A",
+			"B"
+		],
+		"texture_hashes": [
+			[
+				[
+					"Diffuse",
+					".dds",
+					"a05a9801"
+				]
+			],
+			[]
+		]
+	},
+	{
+		"component_name": "Body",
+		"root_vs": "",
+		"draw_vb": "64213ba5",
+		"position_vb": "bd2443af",
+		"blend_vb": "f8611a03",
+		"texcoord_vb": "6c945131",
+		"ib": "891ecaae",
+		"object_indexes": [
+			0,
+			63429,
+			63543
+		],
+		"object_index_counts": [
+			63429,
+			114,
+			963
+		],
+		"object_classifications": [
+			"A",
+			"B",
+			"C"
+		],
+		"texture_hashes": [
+			[
+				[
+					"Diffuse",
+					".dds",
+					"b2f97e36"
+				],
+				[
+					"LightMap",
+					".dds",
+					"7b1eface"
+				]
+			],
+			[],
+			[]
+		]
+	}
 ]
