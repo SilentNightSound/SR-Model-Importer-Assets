@@ -1,0 +1,142 @@
+[
+    {
+        "component_name": "22f11e8a",
+        "root_vs": "",
+        "draw_vb": "5100e194",
+        "position_vb": "767b7559",
+        "blend_vb": "1ae0f262",
+        "texcoord_vb": "132876f9",
+        "ib": "22f11e8a",
+        "object_indexes": [
+            0
+        ],
+        "object_index_counts": [
+            8745
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "2e3685a2"
+                ],
+                [
+                    "LightMap",
+                    ".jpg",
+                    "ce8323e8"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "Eye",
+        "root_vs": "",
+        "draw_vb": "cd088fff",
+        "position_vb": "2921184e",
+        "blend_vb": "fd0baf05",
+        "texcoord_vb": "edec450e",
+        "ib": "49c46b94",
+        "object_indexes": [
+            0
+        ],
+        "object_index_counts": [
+            648
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "04958a7f"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "Bessie",
+        "root_vs": "",
+        "draw_vb": "f23fcb45",
+        "position_vb": "fd318a89",
+        "blend_vb": "a78a7aea",
+        "texcoord_vb": "bfd80a40",
+        "ib": "4a352dbe",
+        "object_indexes": [
+            0
+        ],
+        "object_index_counts": [
+            8352
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "e487e4e9"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "Paddie",
+        "root_vs": "",
+        "draw_vb": "aeb7325c",
+        "position_vb": "a7aa96f1",
+        "blend_vb": "a07a3e34",
+        "texcoord_vb": "4ae0ea29",
+        "ib": "a2874d71",
+        "object_indexes": [
+            0
+        ],
+        "object_index_counts": [
+            5940
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "d5ef74ea"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "Drummie",
+        "root_vs": "",
+        "draw_vb": "81c3461c",
+        "position_vb": "3d18776d",
+        "blend_vb": "50c63776",
+        "texcoord_vb": "9cb50c68",
+        "ib": "f849911d",
+        "object_indexes": [
+            0
+        ],
+        "object_index_counts": [
+            6468
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "7e2123a2"
+                ]
+            ]
+        ]
+    }
+]

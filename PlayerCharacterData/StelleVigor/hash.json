@@ -1,0 +1,93 @@
+[
+    {
+        "component_name": "Hair",
+        "root_vs": "",
+        "draw_vb": "0f43f610",
+        "position_vb": "95b91a3d",
+        "blend_vb": "a91c061e",
+        "texcoord_vb": "fe9eaef0",
+        "ib": "1d62eafb",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "a04fcf6f"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "02a9b085"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "Head",
+        "root_vs": "",
+        "draw_vb": "9cfbc761",
+        "position_vb": "19d09218",
+        "blend_vb": "aa50f051",
+        "texcoord_vb": "6d41cf70",
+        "ib": "b6a70a49",
+        "object_indexes": [
+            0,
+            12636
+        ],
+        "object_classifications": [
+            "A",
+            "B"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "4e98df53"
+                ]
+            ],
+            []
+        ]
+    },
+    {
+        "component_name": "Body",
+        "root_vs": "",
+        "draw_vb": "05123eda",
+        "position_vb": "cb574def",
+        "blend_vb": "fededcc0",
+        "texcoord_vb": "1b9c8bcc",
+        "ib": "eff2fe0f",
+        "object_indexes": [
+            0,
+            42213,
+            42534
+        ],
+        "object_classifications": [
+            "A",
+            "B",
+            "C"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "199ae50c"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "9cb794ae"
+                ]
+            ],
+            [],
+            []
+        ]
+    }
+]

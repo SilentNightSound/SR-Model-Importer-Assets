@@ -1,0 +1,110 @@
+[
+    {
+        "component_name": "Hair",
+        "root_vs": "",
+        "draw_vb": "3eb752d2",
+        "position_vb": "9d2cea59",
+        "blend_vb": "9279d48b",
+        "texcoord_vb": "035b0b38",
+        "ib": "69e1d869",
+        "object_indexes": [
+            0
+        ],
+        "object_index_counts": [
+            21120
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "ab4068ae"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "5adfb107"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "Body",
+        "root_vs": "",
+        "draw_vb": "bec002e2",
+        "position_vb": "70088bea",
+        "blend_vb": "36d67ed0",
+        "texcoord_vb": "c75570dc",
+        "ib": "ea890f32",
+        "object_indexes": [
+            0,
+            77097,
+            78216
+        ],
+        "object_index_counts": [
+            77097,
+            1119,
+            9423
+        ],
+        "object_classifications": [
+            "A",
+            "B",
+            "C"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "16806c2f"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "5f81aaf7"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "850bc1e2"
+                ]
+            ],
+            [],
+            []
+        ]
+    },
+    {
+        "component_name": "Head",
+        "root_vs": "",
+        "draw_vb": "4d57b031",
+        "position_vb": "2fddd06e",
+        "blend_vb": "1bd7b937",
+        "texcoord_vb": "cf432942",
+        "ib": "fe215843",
+        "object_indexes": [
+            0,
+            15162
+        ],
+        "object_index_counts": [
+            15162,
+            144
+        ],
+        "object_classifications": [
+            "A",
+            "B"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "b8741b3e"
+                ]
+            ],
+            []
+        ]
+    }
+]

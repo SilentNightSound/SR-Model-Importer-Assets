@@ -1,0 +1,122 @@
+[
+    {
+        "component_name": "Hair",
+        "root_vs": "",
+        "draw_vb": "d4c32852",
+        "position_vb": "a81f34ec",
+        "blend_vb": "245b9497",
+        "texcoord_vb": "f4d40822",
+        "ib": "04f5ac62",
+        "object_indexes": [
+            0
+        ],
+        "object_index_counts": [
+            16104
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "6ceea938"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "005564d5"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "Body",
+        "root_vs": "",
+        "draw_vb": "d0e08714",
+        "position_vb": "7721c84f",
+        "blend_vb": "cb927e7c",
+        "texcoord_vb": "16b01234",
+        "ib": "09b261de",
+        "object_indexes": [
+            0,
+            68919,
+            80703,
+            83607,
+            87003,
+            90711
+        ],
+        "object_index_counts": [
+            68919,
+            11784,
+            2904,
+            3396,
+            3708,
+            8352
+        ],
+        "object_classifications": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "69eeac16"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "8223816a"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "d197674e"
+                ]
+            ],
+            [],
+            [],
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "component_name": "Head",
+        "root_vs": "",
+        "draw_vb": "810e4378",
+        "position_vb": "9ca46200",
+        "blend_vb": "0173cccd",
+        "texcoord_vb": "31670196",
+        "ib": "f4c55be2",
+        "object_indexes": [
+            0,
+            12312
+        ],
+        "object_index_counts": [
+            12312,
+            138
+        ],
+        "object_classifications": [
+            "A",
+            "B"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "ec1531f1"
+                ]
+            ],
+            []
+        ]
+    }
+]

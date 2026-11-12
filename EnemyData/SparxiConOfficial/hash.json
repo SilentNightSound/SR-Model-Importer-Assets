@@ -1,0 +1,68 @@
+[
+    {
+        "component_name": "Body",
+        "root_vs": "",
+        "draw_vb": "a1cb7ace",
+        "position_vb": "dbfb315f",
+        "blend_vb": "3aac51a4",
+        "texcoord_vb": "aa99b29e",
+        "ib": "a23c106f",
+        "object_indexes": [
+            0,
+            4005
+        ],
+        "object_classifications": [
+            "A",
+            "B"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "51658c21"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "dcbf7f2b"
+                ],
+                [
+                    "StockingMap",
+                    ".dds",
+                    "41e30c31"
+                ]
+            ],
+            []
+        ]
+    },
+    {
+        "component_name": "Cloak",
+        "root_vs": "",
+        "draw_vb": "6eaf5fc8",
+        "position_vb": "fc68ccbe",
+        "blend_vb": "3479927f",
+        "texcoord_vb": "682fe741",
+        "ib": "1f467b65",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "9e8a35dd"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "f6b2672e"
+                ]
+            ]
+        ]
+    }
+]
